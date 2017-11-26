@@ -1,0 +1,2080 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1\libgcc.a(_udivsi3.o)
+                              ./driver/fs/ff.o (__aeabi_uidiv)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1\libgcc.a(_divsi3.o)
+                              ./bsp/uart/uart.o (__aeabi_idiv)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1\libgcc.a(_dvmd_tls.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-memcpy-stub.o)
+                              ./bsp/uart/uart.o (memcpy)
+C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-memset.o)
+                              ./bsp/uart/uart.o (memset)
+C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-putenv.o)
+                              ./bsp/newlib/libc.o (putenv)
+C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-putenv_r.o)
+                              C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-putenv.o) (_putenv_r)
+C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-setenv_r.o)
+                              C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-putenv_r.o) (_setenv_r)
+C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-strchr.o)
+                              C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-putenv_r.o) (strchr)
+C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-strdup_r.o)
+                              C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-putenv_r.o) (_strdup_r)
+C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-strlen-stub.o)
+                              C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-setenv_r.o) (strlen)
+C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-sysstat.o)
+                              ./bsp/newlib/syscalls.o (stat)
+C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-environ.o)
+                              C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-setenv_r.o) (environ)
+C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-envlock.o)
+                              C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-setenv_r.o) (__env_lock)
+C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-errno.o)
+                              C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-setenv_r.o) (__errno)
+C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-getenv_r.o)
+                              C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-setenv_r.o) (_findenv_r)
+C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-impure.o)
+                              C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-putenv.o) (_impure_ptr)
+C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-strncmp.o)
+                              C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-getenv_r.o) (strncmp)
+
+Allocating common symbols
+Common symbol       size              file
+
+test_buf            0x100000          ./main.o
+rx_buf              0x20c             ./bsp/uart/uart.o
+__g_irq_desc_tab    0x100             ./bsp/interrupt/interrupt.o
+
+Discarded input sections
+
+ .group         0x00000000        0x8 ./driver/fs/diskio.o
+ .group         0x00000000        0x8 ./driver/fs/diskio.o
+ .group         0x00000000        0x8 ./driver/fs/diskio.o
+ .group         0x00000000        0x8 ./driver/fs/diskio.o
+ .group         0x00000000        0x8 ./driver/fs/diskio.o
+ .group         0x00000000        0x8 ./driver/fs/diskio.o
+ .group         0x00000000        0x8 ./driver/fs/diskio.o
+ .group         0x00000000        0x8 ./driver/fs/diskio.o
+ .group         0x00000000        0x8 ./driver/fs/diskio.o
+ .group         0x00000000        0x8 ./driver/fs/diskio.o
+ .group         0x00000000        0x8 ./driver/fs/diskio.o
+ .group         0x00000000        0x8 ./driver/fs/diskio.o
+ .group         0x00000000        0x8 ./driver/fs/diskio.o
+ .group         0x00000000        0x8 ./driver/fs/diskio.o
+ .group         0x00000000        0x8 ./driver/fs/diskio.o
+ .group         0x00000000        0x8 ./driver/fs/diskio.o
+ .group         0x00000000        0x8 ./driver/fs/diskio.o
+ .group         0x00000000        0x8 ./driver/fs/diskio.o
+ .group         0x00000000        0x8 ./driver/fs/diskio.o
+ .group         0x00000000        0x8 ./driver/fs/diskio.o
+ .group         0x00000000        0x8 ./driver/fs/diskio.o
+ .group         0x00000000        0x8 ./driver/fs/diskio.o
+ .group         0x00000000        0x8 ./driver/fs/diskio.o
+ .group         0x00000000        0x8 ./driver/fs/diskio.o
+ .group         0x00000000        0x8 ./driver/fs/diskio.o
+ .group         0x00000000        0x8 ./driver/fs/diskio.o
+ .group         0x00000000        0x8 ./driver/fs/diskio.o
+ .group         0x00000000        0x8 ./driver/fs/diskio.o
+ .group         0x00000000        0x8 ./driver/fs/diskio.o
+ .group         0x00000000        0x8 ./driver/fs/diskio.o
+ .group         0x00000000        0x8 ./driver/fs/diskio.o
+ .group         0x00000000        0x8 ./driver/fs/diskio.o
+ .group         0x00000000        0x8 ./driver/fs/diskio.o
+ .group         0x00000000        0x8 ./driver/fs/diskio.o
+ .group         0x00000000        0x8 ./driver/fs/diskio.o
+ .group         0x00000000        0x8 ./driver/fs/diskio.o
+ .text          0x00000000        0x0 ./driver/fs/diskio.o
+ .data          0x00000000        0x0 ./driver/fs/diskio.o
+ .bss           0x00000000        0x0 ./driver/fs/diskio.o
+ .group         0x00000000        0x8 ./driver/fs/ff.o
+ .group         0x00000000        0x8 ./driver/fs/ff.o
+ .group         0x00000000        0x8 ./driver/fs/ff.o
+ .group         0x00000000        0x8 ./driver/fs/ff.o
+ .group         0x00000000        0x8 ./driver/fs/ff.o
+ .group         0x00000000        0x8 ./driver/fs/ff.o
+ .group         0x00000000        0x8 ./driver/fs/ff.o
+ .group         0x00000000        0x8 ./driver/fs/ff.o
+ .group         0x00000000        0x8 ./driver/fs/ff.o
+ .group         0x00000000        0x8 ./driver/fs/ff.o
+ .text          0x00000000        0x0 ./driver/fs/ff.o
+ .data          0x00000000        0x0 ./driver/fs/ff.o
+ .bss           0x00000000        0x0 ./driver/fs/ff.o
+ .text.dir_read
+                0x00000000      0x150 ./driver/fs/ff.o
+ .text.dir_remove
+                0x00000000       0xb4 ./driver/fs/ff.o
+ .text.get_fileinfo
+                0x00000000      0x1d4 ./driver/fs/ff.o
+ .text.f_read   0x00000000      0x4b4 ./driver/fs/ff.o
+ .text.f_lseek  0x00000000      0x7c8 ./driver/fs/ff.o
+ .text.f_opendir
+                0x00000000      0x158 ./driver/fs/ff.o
+ .text.f_closedir
+                0x00000000       0x4c ./driver/fs/ff.o
+ .text.f_readdir
+                0x00000000       0xf4 ./driver/fs/ff.o
+ .text.f_stat   0x00000000       0xb4 ./driver/fs/ff.o
+ .text.f_getfree
+                0x00000000      0x2dc ./driver/fs/ff.o
+ .text.f_truncate
+                0x00000000      0x258 ./driver/fs/ff.o
+ .text.f_unlink
+                0x00000000      0x1fc ./driver/fs/ff.o
+ .text.f_mkdir  0x00000000      0x3d0 ./driver/fs/ff.o
+ .text.f_chmod  0x00000000      0x11c ./driver/fs/ff.o
+ .text.f_utime  0x00000000      0x138 ./driver/fs/ff.o
+ .text.f_rename
+                0x00000000      0x2d0 ./driver/fs/ff.o
+ .text.f_mkfs   0x00000000     0x114c ./driver/fs/ff.o
+ .rodata.vst.4867
+                0x00000000       0x16 ./driver/fs/ff.o
+ .rodata.cst.4868
+                0x00000000       0x16 ./driver/fs/ff.o
+ .debug_macro   0x00000000      0x814 ./driver/fs/ff.o
+ .debug_macro   0x00000000       0x22 ./driver/fs/ff.o
+ .debug_macro   0x00000000       0x87 ./driver/fs/ff.o
+ .debug_macro   0x00000000       0x44 ./driver/fs/ff.o
+ .debug_macro   0x00000000       0xfd ./driver/fs/ff.o
+ .debug_macro   0x00000000       0x5e ./driver/fs/ff.o
+ .debug_macro   0x00000000      0x1df ./driver/fs/ff.o
+ .debug_macro   0x00000000       0xd9 ./driver/fs/ff.o
+ .debug_macro   0x00000000       0xe7 ./driver/fs/ff.o
+ .debug_macro   0x00000000       0x8e ./driver/fs/ff.o
+ .group         0x00000000        0x8 ./driver/key.o
+ .group         0x00000000        0x8 ./driver/key.o
+ .group         0x00000000        0x8 ./driver/key.o
+ .group         0x00000000        0x8 ./driver/key.o
+ .group         0x00000000        0x8 ./driver/key.o
+ .group         0x00000000        0x8 ./driver/key.o
+ .group         0x00000000        0x8 ./driver/key.o
+ .group         0x00000000        0x8 ./driver/key.o
+ .group         0x00000000        0x8 ./driver/key.o
+ .group         0x00000000        0x8 ./driver/key.o
+ .group         0x00000000        0x8 ./driver/key.o
+ .group         0x00000000        0x8 ./driver/key.o
+ .group         0x00000000        0x8 ./driver/key.o
+ .group         0x00000000        0x8 ./driver/key.o
+ .group         0x00000000        0x8 ./driver/key.o
+ .group         0x00000000        0x8 ./driver/key.o
+ .group         0x00000000        0x8 ./driver/key.o
+ .group         0x00000000        0x8 ./driver/key.o
+ .group         0x00000000        0x8 ./driver/key.o
+ .group         0x00000000        0x8 ./driver/key.o
+ .group         0x00000000        0x8 ./driver/key.o
+ .group         0x00000000        0x8 ./driver/key.o
+ .group         0x00000000        0x8 ./driver/key.o
+ .group         0x00000000        0x8 ./driver/key.o
+ .group         0x00000000        0x8 ./driver/key.o
+ .group         0x00000000        0x8 ./driver/key.o
+ .group         0x00000000        0x8 ./driver/key.o
+ .group         0x00000000        0x8 ./driver/key.o
+ .group         0x00000000        0x8 ./driver/key.o
+ .group         0x00000000        0x8 ./driver/key.o
+ .group         0x00000000        0x8 ./driver/key.o
+ .group         0x00000000        0x8 ./driver/key.o
+ .text          0x00000000        0x0 ./driver/key.o
+ .data          0x00000000        0x0 ./driver/key.o
+ .bss           0x00000000        0x0 ./driver/key.o
+ .debug_macro   0x00000000      0x814 ./driver/key.o
+ .debug_macro   0x00000000       0x22 ./driver/key.o
+ .debug_macro   0x00000000       0x35 ./driver/key.o
+ .debug_macro   0x00000000       0x9c ./driver/key.o
+ .debug_macro   0x00000000      0x174 ./driver/key.o
+ .debug_macro   0x00000000      0x30d ./driver/key.o
+ .debug_macro   0x00000000       0x10 ./driver/key.o
+ .debug_macro   0x00000000       0x52 ./driver/key.o
+ .debug_macro   0x00000000       0x1f ./driver/key.o
+ .debug_macro   0x00000000       0x43 ./driver/key.o
+ .debug_macro   0x00000000       0x20 ./driver/key.o
+ .debug_macro   0x00000000       0x5e ./driver/key.o
+ .debug_macro   0x00000000       0x1c ./driver/key.o
+ .debug_macro   0x00000000       0x52 ./driver/key.o
+ .debug_macro   0x00000000       0x40 ./driver/key.o
+ .debug_macro   0x00000000       0x10 ./driver/key.o
+ .debug_macro   0x00000000       0x40 ./driver/key.o
+ .debug_macro   0x00000000       0xd7 ./driver/key.o
+ .debug_macro   0x00000000       0xfd ./driver/key.o
+ .debug_macro   0x00000000      0x1df ./driver/key.o
+ .debug_macro   0x00000000       0x22 ./driver/key.o
+ .debug_macro   0x00000000       0x10 ./driver/key.o
+ .group         0x00000000        0x8 ./driver/led.o
+ .group         0x00000000        0x8 ./driver/led.o
+ .group         0x00000000        0x8 ./driver/led.o
+ .group         0x00000000        0x8 ./driver/led.o
+ .group         0x00000000        0x8 ./driver/led.o
+ .group         0x00000000        0x8 ./driver/led.o
+ .group         0x00000000        0x8 ./driver/led.o
+ .group         0x00000000        0x8 ./driver/led.o
+ .group         0x00000000        0x8 ./driver/led.o
+ .group         0x00000000        0x8 ./driver/led.o
+ .group         0x00000000        0x8 ./driver/led.o
+ .group         0x00000000        0x8 ./driver/led.o
+ .group         0x00000000        0x8 ./driver/led.o
+ .group         0x00000000        0x8 ./driver/led.o
+ .group         0x00000000        0x8 ./driver/led.o
+ .group         0x00000000        0x8 ./driver/led.o
+ .group         0x00000000        0x8 ./driver/led.o
+ .group         0x00000000        0x8 ./driver/led.o
+ .group         0x00000000        0x8 ./driver/led.o
+ .group         0x00000000        0x8 ./driver/led.o
+ .group         0x00000000        0x8 ./driver/led.o
+ .group         0x00000000        0x8 ./driver/led.o
+ .group         0x00000000        0x8 ./driver/led.o
+ .group         0x00000000        0x8 ./driver/led.o
+ .group         0x00000000        0x8 ./driver/led.o
+ .group         0x00000000        0x8 ./driver/led.o
+ .group         0x00000000        0x8 ./driver/led.o
+ .group         0x00000000        0x8 ./driver/led.o
+ .group         0x00000000        0x8 ./driver/led.o
+ .group         0x00000000        0x8 ./driver/led.o
+ .text          0x00000000        0x0 ./driver/led.o
+ .data          0x00000000        0x0 ./driver/led.o
+ .bss           0x00000000        0x0 ./driver/led.o
+ .text.led_on   0x00000000       0x34 ./driver/led.o
+ .text.led_off  0x00000000       0x34 ./driver/led.o
+ .debug_macro   0x00000000      0x814 ./driver/led.o
+ .debug_macro   0x00000000       0xe2 ./driver/led.o
+ .debug_macro   0x00000000      0x154 ./driver/led.o
+ .debug_macro   0x00000000       0x22 ./driver/led.o
+ .debug_macro   0x00000000       0x4c ./driver/led.o
+ .debug_macro   0x00000000       0x8d ./driver/led.o
+ .debug_macro   0x00000000       0x35 ./driver/led.o
+ .debug_macro   0x00000000       0x9c ./driver/led.o
+ .debug_macro   0x00000000       0x4a ./driver/led.o
+ .debug_macro   0x00000000      0x174 ./driver/led.o
+ .debug_macro   0x00000000      0x30d ./driver/led.o
+ .debug_macro   0x00000000       0x10 ./driver/led.o
+ .debug_macro   0x00000000       0x52 ./driver/led.o
+ .debug_macro   0x00000000       0x1f ./driver/led.o
+ .debug_macro   0x00000000       0x43 ./driver/led.o
+ .debug_macro   0x00000000       0x20 ./driver/led.o
+ .debug_macro   0x00000000       0x5e ./driver/led.o
+ .debug_macro   0x00000000       0x1c ./driver/led.o
+ .debug_macro   0x00000000       0x52 ./driver/led.o
+ .debug_macro   0x00000000       0x40 ./driver/led.o
+ .debug_macro   0x00000000       0x10 ./driver/led.o
+ .debug_macro   0x00000000       0x40 ./driver/led.o
+ .debug_macro   0x00000000       0xd7 ./driver/led.o
+ .debug_macro   0x00000000       0xfd ./driver/led.o
+ .debug_macro   0x00000000      0x1df ./driver/led.o
+ .debug_macro   0x00000000       0x22 ./driver/led.o
+ .debug_macro   0x00000000       0x10 ./driver/led.o
+ .debug_macro   0x00000000       0x9a ./driver/led.o
+ .debug_macro   0x00000000       0x64 ./driver/led.o
+ .group         0x00000000        0x8 ./bsp/uart/printf.o
+ .group         0x00000000        0x8 ./bsp/uart/printf.o
+ .group         0x00000000        0x8 ./bsp/uart/printf.o
+ .group         0x00000000        0x8 ./bsp/uart/printf.o
+ .group         0x00000000        0x8 ./bsp/uart/printf.o
+ .group         0x00000000        0x8 ./bsp/uart/printf.o
+ .group         0x00000000        0x8 ./bsp/uart/printf.o
+ .group         0x00000000        0x8 ./bsp/uart/printf.o
+ .group         0x00000000        0x8 ./bsp/uart/printf.o
+ .group         0x00000000        0x8 ./bsp/uart/printf.o
+ .group         0x00000000        0x8 ./bsp/uart/printf.o
+ .group         0x00000000        0x8 ./bsp/uart/printf.o
+ .group         0x00000000        0x8 ./bsp/uart/printf.o
+ .group         0x00000000        0x8 ./bsp/uart/printf.o
+ .group         0x00000000        0x8 ./bsp/uart/printf.o
+ .group         0x00000000        0x8 ./bsp/uart/printf.o
+ .group         0x00000000        0x8 ./bsp/uart/printf.o
+ .group         0x00000000        0x8 ./bsp/uart/printf.o
+ .group         0x00000000        0x8 ./bsp/uart/printf.o
+ .group         0x00000000        0x8 ./bsp/uart/printf.o
+ .group         0x00000000        0x8 ./bsp/uart/printf.o
+ .group         0x00000000        0x8 ./bsp/uart/printf.o
+ .group         0x00000000        0x8 ./bsp/uart/printf.o
+ .group         0x00000000        0x8 ./bsp/uart/printf.o
+ .group         0x00000000        0x8 ./bsp/uart/printf.o
+ .group         0x00000000        0x8 ./bsp/uart/printf.o
+ .group         0x00000000        0x8 ./bsp/uart/printf.o
+ .group         0x00000000        0x8 ./bsp/uart/printf.o
+ .group         0x00000000        0x8 ./bsp/uart/printf.o
+ .group         0x00000000        0x8 ./bsp/uart/printf.o
+ .group         0x00000000        0x8 ./bsp/uart/printf.o
+ .text          0x00000000        0x0 ./bsp/uart/printf.o
+ .data          0x00000000        0x0 ./bsp/uart/printf.o
+ .bss           0x00000000        0x0 ./bsp/uart/printf.o
+ .debug_macro   0x00000000      0x814 ./bsp/uart/printf.o
+ .debug_macro   0x00000000       0x22 ./bsp/uart/printf.o
+ .debug_macro   0x00000000       0x4c ./bsp/uart/printf.o
+ .debug_macro   0x00000000       0x8d ./bsp/uart/printf.o
+ .debug_macro   0x00000000       0x35 ./bsp/uart/printf.o
+ .debug_macro   0x00000000       0x9c ./bsp/uart/printf.o
+ .debug_macro   0x00000000       0x4a ./bsp/uart/printf.o
+ .debug_macro   0x00000000      0x174 ./bsp/uart/printf.o
+ .debug_macro   0x00000000      0x30d ./bsp/uart/printf.o
+ .debug_macro   0x00000000       0x10 ./bsp/uart/printf.o
+ .debug_macro   0x00000000       0x52 ./bsp/uart/printf.o
+ .debug_macro   0x00000000       0x1f ./bsp/uart/printf.o
+ .debug_macro   0x00000000       0x43 ./bsp/uart/printf.o
+ .debug_macro   0x00000000       0x20 ./bsp/uart/printf.o
+ .debug_macro   0x00000000       0x5e ./bsp/uart/printf.o
+ .debug_macro   0x00000000       0x1c ./bsp/uart/printf.o
+ .debug_macro   0x00000000       0x52 ./bsp/uart/printf.o
+ .debug_macro   0x00000000       0x40 ./bsp/uart/printf.o
+ .debug_macro   0x00000000       0x10 ./bsp/uart/printf.o
+ .debug_macro   0x00000000       0x40 ./bsp/uart/printf.o
+ .debug_macro   0x00000000       0xd7 ./bsp/uart/printf.o
+ .debug_macro   0x00000000       0xfd ./bsp/uart/printf.o
+ .debug_macro   0x00000000      0x1df ./bsp/uart/printf.o
+ .debug_macro   0x00000000       0x22 ./bsp/uart/printf.o
+ .debug_macro   0x00000000       0x10 ./bsp/uart/printf.o
+ .debug_macro   0x00000000       0xe2 ./bsp/uart/printf.o
+ .debug_macro   0x00000000      0x154 ./bsp/uart/printf.o
+ .debug_macro   0x00000000       0x9a ./bsp/uart/printf.o
+ .debug_macro   0x00000000       0x64 ./bsp/uart/printf.o
+ .debug_macro   0x00000000       0xee ./bsp/uart/printf.o
+ .group         0x00000000        0x8 ./bsp/uart/uart.o
+ .group         0x00000000        0x8 ./bsp/uart/uart.o
+ .group         0x00000000        0x8 ./bsp/uart/uart.o
+ .group         0x00000000        0x8 ./bsp/uart/uart.o
+ .group         0x00000000        0x8 ./bsp/uart/uart.o
+ .group         0x00000000        0x8 ./bsp/uart/uart.o
+ .group         0x00000000        0x8 ./bsp/uart/uart.o
+ .group         0x00000000        0x8 ./bsp/uart/uart.o
+ .group         0x00000000        0x8 ./bsp/uart/uart.o
+ .group         0x00000000        0x8 ./bsp/uart/uart.o
+ .group         0x00000000        0x8 ./bsp/uart/uart.o
+ .group         0x00000000        0x8 ./bsp/uart/uart.o
+ .group         0x00000000        0x8 ./bsp/uart/uart.o
+ .group         0x00000000        0x8 ./bsp/uart/uart.o
+ .group         0x00000000        0x8 ./bsp/uart/uart.o
+ .group         0x00000000        0x8 ./bsp/uart/uart.o
+ .group         0x00000000        0x8 ./bsp/uart/uart.o
+ .group         0x00000000        0x8 ./bsp/uart/uart.o
+ .group         0x00000000        0x8 ./bsp/uart/uart.o
+ .group         0x00000000        0x8 ./bsp/uart/uart.o
+ .group         0x00000000        0x8 ./bsp/uart/uart.o
+ .group         0x00000000        0x8 ./bsp/uart/uart.o
+ .group         0x00000000        0x8 ./bsp/uart/uart.o
+ .group         0x00000000        0x8 ./bsp/uart/uart.o
+ .group         0x00000000        0x8 ./bsp/uart/uart.o
+ .group         0x00000000        0x8 ./bsp/uart/uart.o
+ .group         0x00000000        0x8 ./bsp/uart/uart.o
+ .group         0x00000000        0x8 ./bsp/uart/uart.o
+ .group         0x00000000        0x8 ./bsp/uart/uart.o
+ .group         0x00000000        0x8 ./bsp/uart/uart.o
+ .group         0x00000000        0x8 ./bsp/uart/uart.o
+ .group         0x00000000        0x8 ./bsp/uart/uart.o
+ .group         0x00000000        0x8 ./bsp/uart/uart.o
+ .group         0x00000000        0x8 ./bsp/uart/uart.o
+ .group         0x00000000        0x8 ./bsp/uart/uart.o
+ .text          0x00000000        0x0 ./bsp/uart/uart.o
+ .data          0x00000000        0x0 ./bsp/uart/uart.o
+ .bss           0x00000000        0x0 ./bsp/uart/uart.o
+ .text.s3c2440_uart_get_char
+                0x00000000       0x44 ./bsp/uart/uart.o
+ .text.s3c2440_uart_read
+                0x00000000       0xd0 ./bsp/uart/uart.o
+ .debug_macro   0x00000000      0x814 ./bsp/uart/uart.o
+ .debug_macro   0x00000000       0xe2 ./bsp/uart/uart.o
+ .debug_macro   0x00000000      0x154 ./bsp/uart/uart.o
+ .debug_macro   0x00000000       0x22 ./bsp/uart/uart.o
+ .debug_macro   0x00000000       0x4c ./bsp/uart/uart.o
+ .debug_macro   0x00000000       0x8d ./bsp/uart/uart.o
+ .debug_macro   0x00000000       0x35 ./bsp/uart/uart.o
+ .debug_macro   0x00000000       0x9c ./bsp/uart/uart.o
+ .debug_macro   0x00000000       0x4a ./bsp/uart/uart.o
+ .debug_macro   0x00000000      0x174 ./bsp/uart/uart.o
+ .debug_macro   0x00000000      0x30d ./bsp/uart/uart.o
+ .debug_macro   0x00000000       0x10 ./bsp/uart/uart.o
+ .debug_macro   0x00000000       0x52 ./bsp/uart/uart.o
+ .debug_macro   0x00000000       0x1f ./bsp/uart/uart.o
+ .debug_macro   0x00000000       0x43 ./bsp/uart/uart.o
+ .debug_macro   0x00000000       0x20 ./bsp/uart/uart.o
+ .debug_macro   0x00000000       0x5e ./bsp/uart/uart.o
+ .debug_macro   0x00000000       0x1c ./bsp/uart/uart.o
+ .debug_macro   0x00000000       0x52 ./bsp/uart/uart.o
+ .debug_macro   0x00000000       0x40 ./bsp/uart/uart.o
+ .debug_macro   0x00000000       0x10 ./bsp/uart/uart.o
+ .debug_macro   0x00000000       0x40 ./bsp/uart/uart.o
+ .debug_macro   0x00000000       0xd7 ./bsp/uart/uart.o
+ .debug_macro   0x00000000       0xfd ./bsp/uart/uart.o
+ .debug_macro   0x00000000      0x1df ./bsp/uart/uart.o
+ .debug_macro   0x00000000       0x22 ./bsp/uart/uart.o
+ .debug_macro   0x00000000       0x10 ./bsp/uart/uart.o
+ .debug_macro   0x00000000       0x9a ./bsp/uart/uart.o
+ .debug_macro   0x00000000       0x64 ./bsp/uart/uart.o
+ .debug_macro   0x00000000       0xee ./bsp/uart/uart.o
+ .debug_macro   0x00000000      0x148 ./bsp/uart/uart.o
+ .debug_macro   0x00000000      0x187 ./bsp/uart/uart.o
+ .debug_macro   0x00000000       0x10 ./bsp/uart/uart.o
+ .debug_macro   0x00000000       0x35 ./bsp/uart/uart.o
+ .group         0x00000000        0x8 ./bsp/sdio/sdio.o
+ .group         0x00000000        0x8 ./bsp/sdio/sdio.o
+ .group         0x00000000        0x8 ./bsp/sdio/sdio.o
+ .group         0x00000000        0x8 ./bsp/sdio/sdio.o
+ .group         0x00000000        0x8 ./bsp/sdio/sdio.o
+ .group         0x00000000        0x8 ./bsp/sdio/sdio.o
+ .group         0x00000000        0x8 ./bsp/sdio/sdio.o
+ .group         0x00000000        0x8 ./bsp/sdio/sdio.o
+ .group         0x00000000        0x8 ./bsp/sdio/sdio.o
+ .group         0x00000000        0x8 ./bsp/sdio/sdio.o
+ .group         0x00000000        0x8 ./bsp/sdio/sdio.o
+ .group         0x00000000        0x8 ./bsp/sdio/sdio.o
+ .group         0x00000000        0x8 ./bsp/sdio/sdio.o
+ .group         0x00000000        0x8 ./bsp/sdio/sdio.o
+ .group         0x00000000        0x8 ./bsp/sdio/sdio.o
+ .group         0x00000000        0x8 ./bsp/sdio/sdio.o
+ .group         0x00000000        0x8 ./bsp/sdio/sdio.o
+ .group         0x00000000        0x8 ./bsp/sdio/sdio.o
+ .group         0x00000000        0x8 ./bsp/sdio/sdio.o
+ .group         0x00000000        0x8 ./bsp/sdio/sdio.o
+ .group         0x00000000        0x8 ./bsp/sdio/sdio.o
+ .group         0x00000000        0x8 ./bsp/sdio/sdio.o
+ .group         0x00000000        0x8 ./bsp/sdio/sdio.o
+ .group         0x00000000        0x8 ./bsp/sdio/sdio.o
+ .group         0x00000000        0x8 ./bsp/sdio/sdio.o
+ .group         0x00000000        0x8 ./bsp/sdio/sdio.o
+ .group         0x00000000        0x8 ./bsp/sdio/sdio.o
+ .group         0x00000000        0x8 ./bsp/sdio/sdio.o
+ .group         0x00000000        0x8 ./bsp/sdio/sdio.o
+ .group         0x00000000        0x8 ./bsp/sdio/sdio.o
+ .group         0x00000000        0x8 ./bsp/sdio/sdio.o
+ .group         0x00000000        0x8 ./bsp/sdio/sdio.o
+ .group         0x00000000        0x8 ./bsp/sdio/sdio.o
+ .group         0x00000000        0x8 ./bsp/sdio/sdio.o
+ .group         0x00000000        0x8 ./bsp/sdio/sdio.o
+ .group         0x00000000        0x8 ./bsp/sdio/sdio.o
+ .text          0x00000000        0x0 ./bsp/sdio/sdio.o
+ .data          0x00000000        0x0 ./bsp/sdio/sdio.o
+ .bss           0x00000000        0x0 ./bsp/sdio/sdio.o
+ .text.sdio_sd_switch
+                0x00000000       0x20 ./bsp/sdio/sdio.o
+ .debug_macro   0x00000000      0x814 ./bsp/sdio/sdio.o
+ .debug_macro   0x00000000       0x94 ./bsp/sdio/sdio.o
+ .debug_macro   0x00000000       0x22 ./bsp/sdio/sdio.o
+ .debug_macro   0x00000000       0x4c ./bsp/sdio/sdio.o
+ .debug_macro   0x00000000       0x8d ./bsp/sdio/sdio.o
+ .debug_macro   0x00000000       0x35 ./bsp/sdio/sdio.o
+ .debug_macro   0x00000000       0x9c ./bsp/sdio/sdio.o
+ .debug_macro   0x00000000       0x4a ./bsp/sdio/sdio.o
+ .debug_macro   0x00000000      0x174 ./bsp/sdio/sdio.o
+ .debug_macro   0x00000000      0x30d ./bsp/sdio/sdio.o
+ .debug_macro   0x00000000       0x10 ./bsp/sdio/sdio.o
+ .debug_macro   0x00000000       0x52 ./bsp/sdio/sdio.o
+ .debug_macro   0x00000000       0x1f ./bsp/sdio/sdio.o
+ .debug_macro   0x00000000       0x43 ./bsp/sdio/sdio.o
+ .debug_macro   0x00000000       0x20 ./bsp/sdio/sdio.o
+ .debug_macro   0x00000000       0x5e ./bsp/sdio/sdio.o
+ .debug_macro   0x00000000       0x1c ./bsp/sdio/sdio.o
+ .debug_macro   0x00000000       0x52 ./bsp/sdio/sdio.o
+ .debug_macro   0x00000000       0x40 ./bsp/sdio/sdio.o
+ .debug_macro   0x00000000       0x10 ./bsp/sdio/sdio.o
+ .debug_macro   0x00000000       0x40 ./bsp/sdio/sdio.o
+ .debug_macro   0x00000000       0xd7 ./bsp/sdio/sdio.o
+ .debug_macro   0x00000000       0xfd ./bsp/sdio/sdio.o
+ .debug_macro   0x00000000      0x1df ./bsp/sdio/sdio.o
+ .debug_macro   0x00000000       0x22 ./bsp/sdio/sdio.o
+ .debug_macro   0x00000000       0x10 ./bsp/sdio/sdio.o
+ .debug_macro   0x00000000       0xb8 ./bsp/sdio/sdio.o
+ .debug_macro   0x00000000       0xe2 ./bsp/sdio/sdio.o
+ .debug_macro   0x00000000      0x154 ./bsp/sdio/sdio.o
+ .debug_macro   0x00000000       0x9a ./bsp/sdio/sdio.o
+ .debug_macro   0x00000000       0x64 ./bsp/sdio/sdio.o
+ .debug_macro   0x00000000       0xee ./bsp/sdio/sdio.o
+ .debug_macro   0x00000000      0x187 ./bsp/sdio/sdio.o
+ .debug_macro   0x00000000       0x10 ./bsp/sdio/sdio.o
+ .debug_macro   0x00000000       0x35 ./bsp/sdio/sdio.o
+ .debug_macro   0x00000000      0x148 ./bsp/sdio/sdio.o
+ .group         0x00000000        0x8 ./bsp/newlib/libc.o
+ .group         0x00000000        0x8 ./bsp/newlib/libc.o
+ .group         0x00000000        0x8 ./bsp/newlib/libc.o
+ .group         0x00000000        0x8 ./bsp/newlib/libc.o
+ .group         0x00000000        0x8 ./bsp/newlib/libc.o
+ .group         0x00000000        0x8 ./bsp/newlib/libc.o
+ .group         0x00000000        0x8 ./bsp/newlib/libc.o
+ .group         0x00000000        0x8 ./bsp/newlib/libc.o
+ .group         0x00000000        0x8 ./bsp/newlib/libc.o
+ .group         0x00000000        0x8 ./bsp/newlib/libc.o
+ .group         0x00000000        0x8 ./bsp/newlib/libc.o
+ .group         0x00000000        0x8 ./bsp/newlib/libc.o
+ .group         0x00000000        0x8 ./bsp/newlib/libc.o
+ .group         0x00000000        0x8 ./bsp/newlib/libc.o
+ .group         0x00000000        0x8 ./bsp/newlib/libc.o
+ .group         0x00000000        0x8 ./bsp/newlib/libc.o
+ .group         0x00000000        0x8 ./bsp/newlib/libc.o
+ .group         0x00000000        0x8 ./bsp/newlib/libc.o
+ .group         0x00000000        0x8 ./bsp/newlib/libc.o
+ .group         0x00000000        0x8 ./bsp/newlib/libc.o
+ .group         0x00000000        0x8 ./bsp/newlib/libc.o
+ .group         0x00000000        0x8 ./bsp/newlib/libc.o
+ .group         0x00000000        0x8 ./bsp/newlib/libc.o
+ .group         0x00000000        0x8 ./bsp/newlib/libc.o
+ .group         0x00000000        0x8 ./bsp/newlib/libc.o
+ .group         0x00000000        0x8 ./bsp/newlib/libc.o
+ .group         0x00000000        0x8 ./bsp/newlib/libc.o
+ .group         0x00000000        0x8 ./bsp/newlib/libc.o
+ .group         0x00000000        0x8 ./bsp/newlib/libc.o
+ .group         0x00000000        0x8 ./bsp/newlib/libc.o
+ .group         0x00000000        0x8 ./bsp/newlib/libc.o
+ .group         0x00000000        0x8 ./bsp/newlib/libc.o
+ .group         0x00000000        0x8 ./bsp/newlib/libc.o
+ .group         0x00000000        0x8 ./bsp/newlib/libc.o
+ .group         0x00000000        0x8 ./bsp/newlib/libc.o
+ .group         0x00000000        0x8 ./bsp/newlib/libc.o
+ .group         0x00000000        0x8 ./bsp/newlib/libc.o
+ .group         0x00000000        0x8 ./bsp/newlib/libc.o
+ .text          0x00000000        0x0 ./bsp/newlib/libc.o
+ .data          0x00000000        0x0 ./bsp/newlib/libc.o
+ .bss           0x00000000        0x0 ./bsp/newlib/libc.o
+ .rodata        0x00000000        0xf ./bsp/newlib/libc.o
+ .text.libc_system_init
+                0x00000000       0x38 ./bsp/newlib/libc.o
+ .debug_info    0x00000000       0xb0 ./bsp/newlib/libc.o
+ .debug_abbrev  0x00000000       0x64 ./bsp/newlib/libc.o
+ .debug_aranges
+                0x00000000       0x20 ./bsp/newlib/libc.o
+ .debug_ranges  0x00000000       0x10 ./bsp/newlib/libc.o
+ .debug_macro   0x00000000      0x208 ./bsp/newlib/libc.o
+ .debug_macro   0x00000000      0x814 ./bsp/newlib/libc.o
+ .debug_macro   0x00000000       0x22 ./bsp/newlib/libc.o
+ .debug_macro   0x00000000       0x4c ./bsp/newlib/libc.o
+ .debug_macro   0x00000000       0x8d ./bsp/newlib/libc.o
+ .debug_macro   0x00000000       0x35 ./bsp/newlib/libc.o
+ .debug_macro   0x00000000       0x9c ./bsp/newlib/libc.o
+ .debug_macro   0x00000000       0x16 ./bsp/newlib/libc.o
+ .debug_macro   0x00000000       0x4a ./bsp/newlib/libc.o
+ .debug_macro   0x00000000       0x97 ./bsp/newlib/libc.o
+ .debug_macro   0x00000000      0x30d ./bsp/newlib/libc.o
+ .debug_macro   0x00000000       0xfd ./bsp/newlib/libc.o
+ .debug_macro   0x00000000       0x10 ./bsp/newlib/libc.o
+ .debug_macro   0x00000000       0x52 ./bsp/newlib/libc.o
+ .debug_macro   0x00000000       0x1f ./bsp/newlib/libc.o
+ .debug_macro   0x00000000       0x43 ./bsp/newlib/libc.o
+ .debug_macro   0x00000000       0x20 ./bsp/newlib/libc.o
+ .debug_macro   0x00000000      0x187 ./bsp/newlib/libc.o
+ .debug_macro   0x00000000       0x10 ./bsp/newlib/libc.o
+ .debug_macro   0x00000000       0x5e ./bsp/newlib/libc.o
+ .debug_macro   0x00000000       0x1c ./bsp/newlib/libc.o
+ .debug_macro   0x00000000       0x52 ./bsp/newlib/libc.o
+ .debug_macro   0x00000000       0x40 ./bsp/newlib/libc.o
+ .debug_macro   0x00000000       0x10 ./bsp/newlib/libc.o
+ .debug_macro   0x00000000       0x40 ./bsp/newlib/libc.o
+ .debug_macro   0x00000000       0xd7 ./bsp/newlib/libc.o
+ .debug_macro   0x00000000       0x16 ./bsp/newlib/libc.o
+ .debug_macro   0x00000000      0x18b ./bsp/newlib/libc.o
+ .debug_macro   0x00000000       0x16 ./bsp/newlib/libc.o
+ .debug_macro   0x00000000       0x35 ./bsp/newlib/libc.o
+ .debug_macro   0x00000000       0x16 ./bsp/newlib/libc.o
+ .debug_macro   0x00000000       0x29 ./bsp/newlib/libc.o
+ .debug_macro   0x00000000       0x46 ./bsp/newlib/libc.o
+ .debug_macro   0x00000000       0x88 ./bsp/newlib/libc.o
+ .debug_macro   0x00000000       0x16 ./bsp/newlib/libc.o
+ .debug_macro   0x00000000       0x10 ./bsp/newlib/libc.o
+ .debug_macro   0x00000000       0x10 ./bsp/newlib/libc.o
+ .debug_macro   0x00000000       0x35 ./bsp/newlib/libc.o
+ .debug_macro   0x00000000       0x28 ./bsp/newlib/libc.o
+ .debug_line    0x00000000      0x3b4 ./bsp/newlib/libc.o
+ .debug_str     0x00000000     0x6908 ./bsp/newlib/libc.o
+ .comment       0x00000000       0x6f ./bsp/newlib/libc.o
+ .debug_frame   0x00000000       0x34 ./bsp/newlib/libc.o
+ .ARM.attributes
+                0x00000000       0x2f ./bsp/newlib/libc.o
+ .group         0x00000000        0x8 ./bsp/newlib/syscalls.o
+ .group         0x00000000        0x8 ./bsp/newlib/syscalls.o
+ .group         0x00000000        0x8 ./bsp/newlib/syscalls.o
+ .group         0x00000000        0x8 ./bsp/newlib/syscalls.o
+ .group         0x00000000        0x8 ./bsp/newlib/syscalls.o
+ .group         0x00000000        0x8 ./bsp/newlib/syscalls.o
+ .group         0x00000000        0x8 ./bsp/newlib/syscalls.o
+ .group         0x00000000        0x8 ./bsp/newlib/syscalls.o
+ .group         0x00000000        0x8 ./bsp/newlib/syscalls.o
+ .group         0x00000000        0x8 ./bsp/newlib/syscalls.o
+ .group         0x00000000        0x8 ./bsp/newlib/syscalls.o
+ .group         0x00000000        0x8 ./bsp/newlib/syscalls.o
+ .group         0x00000000        0x8 ./bsp/newlib/syscalls.o
+ .group         0x00000000        0x8 ./bsp/newlib/syscalls.o
+ .group         0x00000000        0x8 ./bsp/newlib/syscalls.o
+ .group         0x00000000        0x8 ./bsp/newlib/syscalls.o
+ .group         0x00000000        0x8 ./bsp/newlib/syscalls.o
+ .group         0x00000000        0x8 ./bsp/newlib/syscalls.o
+ .group         0x00000000        0x8 ./bsp/newlib/syscalls.o
+ .group         0x00000000        0x8 ./bsp/newlib/syscalls.o
+ .group         0x00000000        0x8 ./bsp/newlib/syscalls.o
+ .group         0x00000000        0x8 ./bsp/newlib/syscalls.o
+ .group         0x00000000        0x8 ./bsp/newlib/syscalls.o
+ .group         0x00000000        0x8 ./bsp/newlib/syscalls.o
+ .group         0x00000000        0x8 ./bsp/newlib/syscalls.o
+ .group         0x00000000        0x8 ./bsp/newlib/syscalls.o
+ .group         0x00000000        0x8 ./bsp/newlib/syscalls.o
+ .group         0x00000000        0x8 ./bsp/newlib/syscalls.o
+ .group         0x00000000        0x8 ./bsp/newlib/syscalls.o
+ .group         0x00000000        0x8 ./bsp/newlib/syscalls.o
+ .group         0x00000000        0x8 ./bsp/newlib/syscalls.o
+ .text          0x00000000        0x0 ./bsp/newlib/syscalls.o
+ .data          0x00000000        0x0 ./bsp/newlib/syscalls.o
+ .bss           0x00000000        0x0 ./bsp/newlib/syscalls.o
+ .text._close_r
+                0x00000000       0x34 ./bsp/newlib/syscalls.o
+ .text._execve_r
+                0x00000000       0x3c ./bsp/newlib/syscalls.o
+ .text._fcntl_r
+                0x00000000       0x3c ./bsp/newlib/syscalls.o
+ .text._fork_r  0x00000000       0x30 ./bsp/newlib/syscalls.o
+ .text._fstat_r
+                0x00000000       0x38 ./bsp/newlib/syscalls.o
+ .text._getpid_r
+                0x00000000       0x24 ./bsp/newlib/syscalls.o
+ .text._isatty_r
+                0x00000000       0x54 ./bsp/newlib/syscalls.o
+ .text._kill_r  0x00000000       0x38 ./bsp/newlib/syscalls.o
+ .text._link_r  0x00000000       0x38 ./bsp/newlib/syscalls.o
+ .text._lseek_r
+                0x00000000       0x3c ./bsp/newlib/syscalls.o
+ .text._mkdir_r
+                0x00000000       0x38 ./bsp/newlib/syscalls.o
+ .text._open_r  0x00000000       0x3c ./bsp/newlib/syscalls.o
+ .text._read_r  0x00000000       0x3c ./bsp/newlib/syscalls.o
+ .text._rename_r
+                0x00000000       0x38 ./bsp/newlib/syscalls.o
+ .text._sbrk_r  0x00000000       0x28 ./bsp/newlib/syscalls.o
+ .text._stat_r  0x00000000       0x38 ./bsp/newlib/syscalls.o
+ .text._times_r
+                0x00000000       0x34 ./bsp/newlib/syscalls.o
+ .text._unlink_r
+                0x00000000       0x34 ./bsp/newlib/syscalls.o
+ .text._wait_r  0x00000000       0x34 ./bsp/newlib/syscalls.o
+ .text._write_r
+                0x00000000       0x3c ./bsp/newlib/syscalls.o
+ .text._gettimeofday_r
+                0x00000000       0x38 ./bsp/newlib/syscalls.o
+ .text._malloc_r
+                0x00000000       0x40 ./bsp/newlib/syscalls.o
+ .text._realloc_r
+                0x00000000       0x44 ./bsp/newlib/syscalls.o
+ .text._calloc_r
+                0x00000000       0x44 ./bsp/newlib/syscalls.o
+ .text._free_r  0x00000000       0x24 ./bsp/newlib/syscalls.o
+ .text._exit    0x00000000       0x14 ./bsp/newlib/syscalls.o
+ .text._system  0x00000000       0x20 ./bsp/newlib/syscalls.o
+ .debug_info    0x00000000     0x117b ./bsp/newlib/syscalls.o
+ .debug_abbrev  0x00000000      0x241 ./bsp/newlib/syscalls.o
+ .debug_aranges
+                0x00000000       0xf0 ./bsp/newlib/syscalls.o
+ .debug_ranges  0x00000000       0xe0 ./bsp/newlib/syscalls.o
+ .debug_macro   0x00000000      0x1af ./bsp/newlib/syscalls.o
+ .debug_macro   0x00000000      0x814 ./bsp/newlib/syscalls.o
+ .debug_macro   0x00000000       0x22 ./bsp/newlib/syscalls.o
+ .debug_macro   0x00000000       0x4c ./bsp/newlib/syscalls.o
+ .debug_macro   0x00000000       0x8d ./bsp/newlib/syscalls.o
+ .debug_macro   0x00000000       0x35 ./bsp/newlib/syscalls.o
+ .debug_macro   0x00000000       0x9c ./bsp/newlib/syscalls.o
+ .debug_macro   0x00000000      0x174 ./bsp/newlib/syscalls.o
+ .debug_macro   0x00000000       0x4a ./bsp/newlib/syscalls.o
+ .debug_macro   0x00000000       0x52 ./bsp/newlib/syscalls.o
+ .debug_macro   0x00000000       0x1f ./bsp/newlib/syscalls.o
+ .debug_macro   0x00000000       0x43 ./bsp/newlib/syscalls.o
+ .debug_macro   0x00000000       0x20 ./bsp/newlib/syscalls.o
+ .debug_macro   0x00000000      0x187 ./bsp/newlib/syscalls.o
+ .debug_macro   0x00000000       0x10 ./bsp/newlib/syscalls.o
+ .debug_macro   0x00000000       0x35 ./bsp/newlib/syscalls.o
+ .debug_macro   0x00000000      0x30d ./bsp/newlib/syscalls.o
+ .debug_macro   0x00000000       0x10 ./bsp/newlib/syscalls.o
+ .debug_macro   0x00000000       0x10 ./bsp/newlib/syscalls.o
+ .debug_macro   0x00000000       0x10 ./bsp/newlib/syscalls.o
+ .debug_macro   0x00000000       0x10 ./bsp/newlib/syscalls.o
+ .debug_macro   0x00000000       0x5e ./bsp/newlib/syscalls.o
+ .debug_macro   0x00000000       0x1c ./bsp/newlib/syscalls.o
+ .debug_macro   0x00000000       0x52 ./bsp/newlib/syscalls.o
+ .debug_macro   0x00000000       0x40 ./bsp/newlib/syscalls.o
+ .debug_macro   0x00000000       0x10 ./bsp/newlib/syscalls.o
+ .debug_macro   0x00000000       0x40 ./bsp/newlib/syscalls.o
+ .debug_macro   0x00000000       0xd7 ./bsp/newlib/syscalls.o
+ .debug_macro   0x00000000       0x35 ./bsp/newlib/syscalls.o
+ .debug_macro   0x00000000       0x46 ./bsp/newlib/syscalls.o
+ .debug_macro   0x00000000      0x128 ./bsp/newlib/syscalls.o
+ .debug_macro   0x00000000       0xe2 ./bsp/newlib/syscalls.o
+ .debug_line    0x00000000      0x575 ./bsp/newlib/syscalls.o
+ .debug_str     0x00000000     0x6a37 ./bsp/newlib/syscalls.o
+ .comment       0x00000000       0x6f ./bsp/newlib/syscalls.o
+ .debug_frame   0x00000000      0x36c ./bsp/newlib/syscalls.o
+ .ARM.attributes
+                0x00000000       0x2f ./bsp/newlib/syscalls.o
+ .group         0x00000000        0x8 ./bsp/interrupt/interrupt.o
+ .group         0x00000000        0x8 ./bsp/interrupt/interrupt.o
+ .group         0x00000000        0x8 ./bsp/interrupt/interrupt.o
+ .group         0x00000000        0x8 ./bsp/interrupt/interrupt.o
+ .group         0x00000000        0x8 ./bsp/interrupt/interrupt.o
+ .group         0x00000000        0x8 ./bsp/interrupt/interrupt.o
+ .group         0x00000000        0x8 ./bsp/interrupt/interrupt.o
+ .group         0x00000000        0x8 ./bsp/interrupt/interrupt.o
+ .group         0x00000000        0x8 ./bsp/interrupt/interrupt.o
+ .group         0x00000000        0x8 ./bsp/interrupt/interrupt.o
+ .group         0x00000000        0x8 ./bsp/interrupt/interrupt.o
+ .group         0x00000000        0x8 ./bsp/interrupt/interrupt.o
+ .group         0x00000000        0x8 ./bsp/interrupt/interrupt.o
+ .group         0x00000000        0x8 ./bsp/interrupt/interrupt.o
+ .group         0x00000000        0x8 ./bsp/interrupt/interrupt.o
+ .group         0x00000000        0x8 ./bsp/interrupt/interrupt.o
+ .group         0x00000000        0x8 ./bsp/interrupt/interrupt.o
+ .group         0x00000000        0x8 ./bsp/interrupt/interrupt.o
+ .text          0x00000000        0x0 ./bsp/interrupt/interrupt.o
+ .data          0x00000000        0x0 ./bsp/interrupt/interrupt.o
+ .bss           0x00000000        0x0 ./bsp/interrupt/interrupt.o
+ .text.s3c2440_interrupt_submask
+                0x00000000       0x48 ./bsp/interrupt/interrupt.o
+ .debug_macro   0x00000000      0x814 ./bsp/interrupt/interrupt.o
+ .debug_macro   0x00000000      0x148 ./bsp/interrupt/interrupt.o
+ .debug_macro   0x00000000       0xe2 ./bsp/interrupt/interrupt.o
+ .debug_macro   0x00000000       0x22 ./bsp/interrupt/interrupt.o
+ .debug_macro   0x00000000       0x4c ./bsp/interrupt/interrupt.o
+ .debug_macro   0x00000000       0x8d ./bsp/interrupt/interrupt.o
+ .debug_macro   0x00000000       0x35 ./bsp/interrupt/interrupt.o
+ .debug_macro   0x00000000       0x9c ./bsp/interrupt/interrupt.o
+ .debug_macro   0x00000000      0x174 ./bsp/interrupt/interrupt.o
+ .debug_macro   0x00000000       0x4a ./bsp/interrupt/interrupt.o
+ .debug_macro   0x00000000       0x52 ./bsp/interrupt/interrupt.o
+ .debug_macro   0x00000000       0x1f ./bsp/interrupt/interrupt.o
+ .debug_macro   0x00000000       0x43 ./bsp/interrupt/interrupt.o
+ .debug_macro   0x00000000       0x20 ./bsp/interrupt/interrupt.o
+ .debug_macro   0x00000000      0x187 ./bsp/interrupt/interrupt.o
+ .debug_macro   0x00000000      0x30d ./bsp/interrupt/interrupt.o
+ .debug_macro   0x00000000       0x10 ./bsp/interrupt/interrupt.o
+ .debug_macro   0x00000000       0x35 ./bsp/interrupt/interrupt.o
+ .data          0x00000000        0x0 ./bsp/interrupt/interrupt_asm.o
+ .bss           0x00000000        0x0 ./bsp/interrupt/interrupt_asm.o
+ .group         0x00000000        0x8 ./bsp/gpio/gpio.o
+ .group         0x00000000        0x8 ./bsp/gpio/gpio.o
+ .group         0x00000000        0x8 ./bsp/gpio/gpio.o
+ .group         0x00000000        0x8 ./bsp/gpio/gpio.o
+ .group         0x00000000        0x8 ./bsp/gpio/gpio.o
+ .group         0x00000000        0x8 ./bsp/gpio/gpio.o
+ .group         0x00000000        0x8 ./bsp/gpio/gpio.o
+ .group         0x00000000        0x8 ./bsp/gpio/gpio.o
+ .group         0x00000000        0x8 ./bsp/gpio/gpio.o
+ .group         0x00000000        0x8 ./bsp/gpio/gpio.o
+ .group         0x00000000        0x8 ./bsp/gpio/gpio.o
+ .group         0x00000000        0x8 ./bsp/gpio/gpio.o
+ .group         0x00000000        0x8 ./bsp/gpio/gpio.o
+ .group         0x00000000        0x8 ./bsp/gpio/gpio.o
+ .group         0x00000000        0x8 ./bsp/gpio/gpio.o
+ .group         0x00000000        0x8 ./bsp/gpio/gpio.o
+ .group         0x00000000        0x8 ./bsp/gpio/gpio.o
+ .group         0x00000000        0x8 ./bsp/gpio/gpio.o
+ .group         0x00000000        0x8 ./bsp/gpio/gpio.o
+ .group         0x00000000        0x8 ./bsp/gpio/gpio.o
+ .group         0x00000000        0x8 ./bsp/gpio/gpio.o
+ .group         0x00000000        0x8 ./bsp/gpio/gpio.o
+ .group         0x00000000        0x8 ./bsp/gpio/gpio.o
+ .group         0x00000000        0x8 ./bsp/gpio/gpio.o
+ .group         0x00000000        0x8 ./bsp/gpio/gpio.o
+ .group         0x00000000        0x8 ./bsp/gpio/gpio.o
+ .group         0x00000000        0x8 ./bsp/gpio/gpio.o
+ .group         0x00000000        0x8 ./bsp/gpio/gpio.o
+ .group         0x00000000        0x8 ./bsp/gpio/gpio.o
+ .text          0x00000000        0x0 ./bsp/gpio/gpio.o
+ .data          0x00000000        0x0 ./bsp/gpio/gpio.o
+ .bss           0x00000000        0x0 ./bsp/gpio/gpio.o
+ .text.s3c2440_gpio_getcfg
+                0x00000000       0xac ./bsp/gpio/gpio.o
+ .text.s3c2440_gpio_getpull
+                0x00000000       0x88 ./bsp/gpio/gpio.o
+ .text.s3c2440_gpio_getirq
+                0x00000000       0x24 ./bsp/gpio/gpio.o
+ .text.s3c2440_gpio_eint_mask
+                0x00000000       0x44 ./bsp/gpio/gpio.o
+ .text.s3c2440_gpio_eint_unmask
+                0x00000000       0x48 ./bsp/gpio/gpio.o
+ .debug_macro   0x00000000      0x814 ./bsp/gpio/gpio.o
+ .debug_macro   0x00000000       0xe2 ./bsp/gpio/gpio.o
+ .debug_macro   0x00000000      0x154 ./bsp/gpio/gpio.o
+ .debug_macro   0x00000000       0x22 ./bsp/gpio/gpio.o
+ .debug_macro   0x00000000       0x4c ./bsp/gpio/gpio.o
+ .debug_macro   0x00000000       0x8d ./bsp/gpio/gpio.o
+ .debug_macro   0x00000000       0x35 ./bsp/gpio/gpio.o
+ .debug_macro   0x00000000       0x9c ./bsp/gpio/gpio.o
+ .debug_macro   0x00000000       0x4a ./bsp/gpio/gpio.o
+ .debug_macro   0x00000000      0x174 ./bsp/gpio/gpio.o
+ .debug_macro   0x00000000      0x30d ./bsp/gpio/gpio.o
+ .debug_macro   0x00000000       0x10 ./bsp/gpio/gpio.o
+ .debug_macro   0x00000000       0x52 ./bsp/gpio/gpio.o
+ .debug_macro   0x00000000       0x1f ./bsp/gpio/gpio.o
+ .debug_macro   0x00000000       0x43 ./bsp/gpio/gpio.o
+ .debug_macro   0x00000000       0x20 ./bsp/gpio/gpio.o
+ .debug_macro   0x00000000       0x5e ./bsp/gpio/gpio.o
+ .debug_macro   0x00000000       0x1c ./bsp/gpio/gpio.o
+ .debug_macro   0x00000000       0x52 ./bsp/gpio/gpio.o
+ .debug_macro   0x00000000       0x40 ./bsp/gpio/gpio.o
+ .debug_macro   0x00000000       0x10 ./bsp/gpio/gpio.o
+ .debug_macro   0x00000000       0x40 ./bsp/gpio/gpio.o
+ .debug_macro   0x00000000       0xd7 ./bsp/gpio/gpio.o
+ .debug_macro   0x00000000       0xfd ./bsp/gpio/gpio.o
+ .debug_macro   0x00000000      0x1df ./bsp/gpio/gpio.o
+ .debug_macro   0x00000000       0x22 ./bsp/gpio/gpio.o
+ .debug_macro   0x00000000       0x10 ./bsp/gpio/gpio.o
+ .debug_macro   0x00000000       0x9a ./bsp/gpio/gpio.o
+ .debug_macro   0x00000000       0x64 ./bsp/gpio/gpio.o
+ .group         0x00000000        0x8 ./bsp/dma/dma.o
+ .group         0x00000000        0x8 ./bsp/dma/dma.o
+ .group         0x00000000        0x8 ./bsp/dma/dma.o
+ .group         0x00000000        0x8 ./bsp/dma/dma.o
+ .group         0x00000000        0x8 ./bsp/dma/dma.o
+ .group         0x00000000        0x8 ./bsp/dma/dma.o
+ .group         0x00000000        0x8 ./bsp/dma/dma.o
+ .group         0x00000000        0x8 ./bsp/dma/dma.o
+ .group         0x00000000        0x8 ./bsp/dma/dma.o
+ .group         0x00000000        0x8 ./bsp/dma/dma.o
+ .group         0x00000000        0x8 ./bsp/dma/dma.o
+ .group         0x00000000        0x8 ./bsp/dma/dma.o
+ .group         0x00000000        0x8 ./bsp/dma/dma.o
+ .group         0x00000000        0x8 ./bsp/dma/dma.o
+ .group         0x00000000        0x8 ./bsp/dma/dma.o
+ .group         0x00000000        0x8 ./bsp/dma/dma.o
+ .group         0x00000000        0x8 ./bsp/dma/dma.o
+ .group         0x00000000        0x8 ./bsp/dma/dma.o
+ .group         0x00000000        0x8 ./bsp/dma/dma.o
+ .group         0x00000000        0x8 ./bsp/dma/dma.o
+ .group         0x00000000        0x8 ./bsp/dma/dma.o
+ .group         0x00000000        0x8 ./bsp/dma/dma.o
+ .group         0x00000000        0x8 ./bsp/dma/dma.o
+ .group         0x00000000        0x8 ./bsp/dma/dma.o
+ .group         0x00000000        0x8 ./bsp/dma/dma.o
+ .group         0x00000000        0x8 ./bsp/dma/dma.o
+ .group         0x00000000        0x8 ./bsp/dma/dma.o
+ .group         0x00000000        0x8 ./bsp/dma/dma.o
+ .group         0x00000000        0x8 ./bsp/dma/dma.o
+ .group         0x00000000        0x8 ./bsp/dma/dma.o
+ .group         0x00000000        0x8 ./bsp/dma/dma.o
+ .group         0x00000000        0x8 ./bsp/dma/dma.o
+ .text          0x00000000        0x0 ./bsp/dma/dma.o
+ .data          0x00000000        0x0 ./bsp/dma/dma.o
+ .bss           0x00000000        0x0 ./bsp/dma/dma.o
+ .data.uart0_dma_buf
+                0x00000000      0x200 ./bsp/dma/dma.o
+ .text.s3c2440_dma_init
+                0x00000000       0x90 ./bsp/dma/dma.o
+ .text.s3c2440_dma_start
+                0x00000000       0x2c ./bsp/dma/dma.o
+ .text.isr_int_dma0
+                0x00000000       0x38 ./bsp/dma/dma.o
+ .debug_info    0x00000000      0x12e ./bsp/dma/dma.o
+ .debug_abbrev  0x00000000       0xcc ./bsp/dma/dma.o
+ .debug_aranges
+                0x00000000       0x30 ./bsp/dma/dma.o
+ .debug_ranges  0x00000000       0x20 ./bsp/dma/dma.o
+ .debug_macro   0x00000000      0x1c1 ./bsp/dma/dma.o
+ .debug_macro   0x00000000      0x814 ./bsp/dma/dma.o
+ .debug_macro   0x00000000       0xe2 ./bsp/dma/dma.o
+ .debug_macro   0x00000000      0x148 ./bsp/dma/dma.o
+ .debug_macro   0x00000000       0xe2 ./bsp/dma/dma.o
+ .debug_macro   0x00000000      0x154 ./bsp/dma/dma.o
+ .debug_macro   0x00000000       0x22 ./bsp/dma/dma.o
+ .debug_macro   0x00000000       0x4c ./bsp/dma/dma.o
+ .debug_macro   0x00000000       0x8d ./bsp/dma/dma.o
+ .debug_macro   0x00000000       0x35 ./bsp/dma/dma.o
+ .debug_macro   0x00000000       0x9c ./bsp/dma/dma.o
+ .debug_macro   0x00000000       0x4a ./bsp/dma/dma.o
+ .debug_macro   0x00000000      0x174 ./bsp/dma/dma.o
+ .debug_macro   0x00000000      0x30d ./bsp/dma/dma.o
+ .debug_macro   0x00000000       0x10 ./bsp/dma/dma.o
+ .debug_macro   0x00000000       0x52 ./bsp/dma/dma.o
+ .debug_macro   0x00000000       0x1f ./bsp/dma/dma.o
+ .debug_macro   0x00000000       0x43 ./bsp/dma/dma.o
+ .debug_macro   0x00000000       0x20 ./bsp/dma/dma.o
+ .debug_macro   0x00000000       0x5e ./bsp/dma/dma.o
+ .debug_macro   0x00000000       0x1c ./bsp/dma/dma.o
+ .debug_macro   0x00000000       0x52 ./bsp/dma/dma.o
+ .debug_macro   0x00000000       0x40 ./bsp/dma/dma.o
+ .debug_macro   0x00000000       0x10 ./bsp/dma/dma.o
+ .debug_macro   0x00000000       0x40 ./bsp/dma/dma.o
+ .debug_macro   0x00000000       0xd7 ./bsp/dma/dma.o
+ .debug_macro   0x00000000       0xfd ./bsp/dma/dma.o
+ .debug_macro   0x00000000      0x1df ./bsp/dma/dma.o
+ .debug_macro   0x00000000       0x22 ./bsp/dma/dma.o
+ .debug_macro   0x00000000       0x10 ./bsp/dma/dma.o
+ .debug_macro   0x00000000       0x9a ./bsp/dma/dma.o
+ .debug_macro   0x00000000       0x64 ./bsp/dma/dma.o
+ .debug_macro   0x00000000       0xee ./bsp/dma/dma.o
+ .debug_line    0x00000000      0x426 ./bsp/dma/dma.o
+ .debug_str     0x00000000     0x7977 ./bsp/dma/dma.o
+ .comment       0x00000000       0x6f ./bsp/dma/dma.o
+ .debug_frame   0x00000000       0x74 ./bsp/dma/dma.o
+ .ARM.attributes
+                0x00000000       0x2f ./bsp/dma/dma.o
+ .group         0x00000000        0x8 ./bsp/clock/clock.o
+ .group         0x00000000        0x8 ./bsp/clock/clock.o
+ .group         0x00000000        0x8 ./bsp/clock/clock.o
+ .group         0x00000000        0x8 ./bsp/clock/clock.o
+ .group         0x00000000        0x8 ./bsp/clock/clock.o
+ .group         0x00000000        0x8 ./bsp/clock/clock.o
+ .group         0x00000000        0x8 ./bsp/clock/clock.o
+ .group         0x00000000        0x8 ./bsp/clock/clock.o
+ .group         0x00000000        0x8 ./bsp/clock/clock.o
+ .group         0x00000000        0x8 ./bsp/clock/clock.o
+ .group         0x00000000        0x8 ./bsp/clock/clock.o
+ .group         0x00000000        0x8 ./bsp/clock/clock.o
+ .group         0x00000000        0x8 ./bsp/clock/clock.o
+ .group         0x00000000        0x8 ./bsp/clock/clock.o
+ .group         0x00000000        0x8 ./bsp/clock/clock.o
+ .group         0x00000000        0x8 ./bsp/clock/clock.o
+ .group         0x00000000        0x8 ./bsp/clock/clock.o
+ .group         0x00000000        0x8 ./bsp/clock/clock.o
+ .group         0x00000000        0x8 ./bsp/clock/clock.o
+ .group         0x00000000        0x8 ./bsp/clock/clock.o
+ .group         0x00000000        0x8 ./bsp/clock/clock.o
+ .group         0x00000000        0x8 ./bsp/clock/clock.o
+ .group         0x00000000        0x8 ./bsp/clock/clock.o
+ .group         0x00000000        0x8 ./bsp/clock/clock.o
+ .group         0x00000000        0x8 ./bsp/clock/clock.o
+ .group         0x00000000        0x8 ./bsp/clock/clock.o
+ .group         0x00000000        0x8 ./bsp/clock/clock.o
+ .group         0x00000000        0x8 ./bsp/clock/clock.o
+ .text          0x00000000        0x0 ./bsp/clock/clock.o
+ .data          0x00000000        0x0 ./bsp/clock/clock.o
+ .bss           0x00000000        0x0 ./bsp/clock/clock.o
+ .debug_macro   0x00000000      0x814 ./bsp/clock/clock.o
+ .debug_macro   0x00000000       0x94 ./bsp/clock/clock.o
+ .debug_macro   0x00000000       0x22 ./bsp/clock/clock.o
+ .debug_macro   0x00000000       0x4c ./bsp/clock/clock.o
+ .debug_macro   0x00000000       0x8d ./bsp/clock/clock.o
+ .debug_macro   0x00000000       0x35 ./bsp/clock/clock.o
+ .debug_macro   0x00000000       0x9c ./bsp/clock/clock.o
+ .debug_macro   0x00000000       0x4a ./bsp/clock/clock.o
+ .debug_macro   0x00000000      0x174 ./bsp/clock/clock.o
+ .debug_macro   0x00000000      0x30d ./bsp/clock/clock.o
+ .debug_macro   0x00000000       0x10 ./bsp/clock/clock.o
+ .debug_macro   0x00000000       0x52 ./bsp/clock/clock.o
+ .debug_macro   0x00000000       0x1f ./bsp/clock/clock.o
+ .debug_macro   0x00000000       0x43 ./bsp/clock/clock.o
+ .debug_macro   0x00000000       0x20 ./bsp/clock/clock.o
+ .debug_macro   0x00000000       0x5e ./bsp/clock/clock.o
+ .debug_macro   0x00000000       0x1c ./bsp/clock/clock.o
+ .debug_macro   0x00000000       0x52 ./bsp/clock/clock.o
+ .debug_macro   0x00000000       0x40 ./bsp/clock/clock.o
+ .debug_macro   0x00000000       0x10 ./bsp/clock/clock.o
+ .debug_macro   0x00000000       0x40 ./bsp/clock/clock.o
+ .debug_macro   0x00000000       0xd7 ./bsp/clock/clock.o
+ .debug_macro   0x00000000       0xfd ./bsp/clock/clock.o
+ .debug_macro   0x00000000      0x1df ./bsp/clock/clock.o
+ .debug_macro   0x00000000       0x22 ./bsp/clock/clock.o
+ .debug_macro   0x00000000       0x10 ./bsp/clock/clock.o
+ .debug_macro   0x00000000       0x9a ./bsp/clock/clock.o
+ .debug_macro   0x00000000       0x64 ./bsp/clock/clock.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .text          0x00000000        0x0 ./main.o
+ .data          0x00000000        0x0 ./main.o
+ .bss           0x00000000        0x0 ./main.o
+ .text.scan_dir
+                0x00000000      0x16c ./main.o
+ .bss.f_dep.5056
+                0x00000000        0x4 ./main.o
+ .debug_macro   0x00000000      0x814 ./main.o
+ .debug_macro   0x00000000       0x94 ./main.o
+ .debug_macro   0x00000000       0xe2 ./main.o
+ .debug_macro   0x00000000      0x154 ./main.o
+ .debug_macro   0x00000000       0x22 ./main.o
+ .debug_macro   0x00000000       0x4c ./main.o
+ .debug_macro   0x00000000       0x8d ./main.o
+ .debug_macro   0x00000000       0x35 ./main.o
+ .debug_macro   0x00000000       0x9c ./main.o
+ .debug_macro   0x00000000       0x4a ./main.o
+ .debug_macro   0x00000000      0x174 ./main.o
+ .debug_macro   0x00000000      0x30d ./main.o
+ .debug_macro   0x00000000       0x10 ./main.o
+ .debug_macro   0x00000000       0x52 ./main.o
+ .debug_macro   0x00000000       0x1f ./main.o
+ .debug_macro   0x00000000       0x43 ./main.o
+ .debug_macro   0x00000000       0x20 ./main.o
+ .debug_macro   0x00000000       0x5e ./main.o
+ .debug_macro   0x00000000       0x1c ./main.o
+ .debug_macro   0x00000000       0x52 ./main.o
+ .debug_macro   0x00000000       0x40 ./main.o
+ .debug_macro   0x00000000       0x10 ./main.o
+ .debug_macro   0x00000000       0x40 ./main.o
+ .debug_macro   0x00000000       0xd7 ./main.o
+ .debug_macro   0x00000000       0xfd ./main.o
+ .debug_macro   0x00000000      0x1df ./main.o
+ .debug_macro   0x00000000       0x22 ./main.o
+ .debug_macro   0x00000000       0x10 ./main.o
+ .debug_macro   0x00000000       0x9a ./main.o
+ .debug_macro   0x00000000       0x64 ./main.o
+ .debug_macro   0x00000000       0xee ./main.o
+ .debug_macro   0x00000000      0x148 ./main.o
+ .debug_macro   0x00000000       0xe2 ./main.o
+ .debug_macro   0x00000000       0xd9 ./main.o
+ .debug_macro   0x00000000       0xe7 ./main.o
+ .debug_macro   0x00000000      0x187 ./main.o
+ .debug_macro   0x00000000       0x10 ./main.o
+ .debug_macro   0x00000000       0x35 ./main.o
+ .data          0x00000000        0x0 ./start.o
+ .bss           0x00000000        0x0 ./start.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1\libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1\libgcc.a(_udivsi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1\libgcc.a(_divsi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1\libgcc.a(_divsi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-memcpy-stub.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-memcpy-stub.o)
+ .text          0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-memset.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-memset.o)
+ .text          0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-putenv.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-putenv.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-putenv.o)
+ .text.putenv   0x00000000       0x20 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-putenv.o)
+ .debug_frame   0x00000000       0x2c C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-putenv.o)
+ .ARM.attributes
+                0x00000000       0x30 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-putenv.o)
+ .text          0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-putenv_r.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-putenv_r.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-putenv_r.o)
+ .text._putenv_r
+                0x00000000       0x74 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-putenv_r.o)
+ .debug_frame   0x00000000       0x38 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-putenv_r.o)
+ .ARM.attributes
+                0x00000000       0x30 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-putenv_r.o)
+ .text          0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-setenv_r.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-setenv_r.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-setenv_r.o)
+ .text._setenv_r
+                0x00000000      0x24c C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-setenv_r.o)
+ .text._unsetenv_r
+                0x00000000       0xc8 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-setenv_r.o)
+ .bss.alloced.4729
+                0x00000000        0x4 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-setenv_r.o)
+ .debug_frame   0x00000000       0x9c C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-setenv_r.o)
+ .ARM.attributes
+                0x00000000       0x30 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-setenv_r.o)
+ .text          0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-strchr.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-strchr.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-strchr.o)
+ .text.strchr   0x00000000      0x168 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-strchr.o)
+ .debug_frame   0x00000000       0x48 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-strchr.o)
+ .ARM.attributes
+                0x00000000       0x30 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-strchr.o)
+ .text          0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-strdup_r.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-strdup_r.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-strdup_r.o)
+ .text._strdup_r
+                0x00000000       0x40 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-strdup_r.o)
+ .debug_frame   0x00000000       0x34 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-strdup_r.o)
+ .ARM.attributes
+                0x00000000       0x30 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-strdup_r.o)
+ .text          0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-strlen-stub.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-strlen-stub.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-strlen-stub.o)
+ .text.strlen   0x00000000       0x60 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-strlen-stub.o)
+ .debug_frame   0x00000000       0x20 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-strlen-stub.o)
+ .ARM.attributes
+                0x00000000       0x30 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-strlen-stub.o)
+ .text          0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-sysstat.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-sysstat.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-sysstat.o)
+ .text.stat     0x00000000       0x24 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-sysstat.o)
+ .debug_frame   0x00000000       0x2c C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-sysstat.o)
+ .ARM.attributes
+                0x00000000       0x30 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-sysstat.o)
+ .text          0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-environ.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-environ.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-environ.o)
+ .data.environ  0x00000000        0x4 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-environ.o)
+ .bss.initial_env
+                0x00000000        0x4 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-environ.o)
+ .ARM.attributes
+                0x00000000       0x30 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-environ.o)
+ .text          0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-envlock.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-envlock.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-envlock.o)
+ .text.__env_lock
+                0x00000000        0x4 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-envlock.o)
+ .text.__env_unlock
+                0x00000000        0x4 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-envlock.o)
+ .debug_frame   0x00000000       0x30 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-envlock.o)
+ .ARM.attributes
+                0x00000000       0x30 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-envlock.o)
+ .text          0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-errno.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-errno.o)
+ .text.__errno  0x00000000       0x10 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-errno.o)
+ .debug_frame   0x00000000       0x20 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000000       0x30 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-errno.o)
+ .text          0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-getenv_r.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-getenv_r.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-getenv_r.o)
+ .text._findenv_r
+                0x00000000       0xd0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-getenv_r.o)
+ .text._getenv_r
+                0x00000000       0x1c C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-getenv_r.o)
+ .debug_frame   0x00000000       0x70 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-getenv_r.o)
+ .ARM.attributes
+                0x00000000       0x30 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-getenv_r.o)
+ .text          0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-impure.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000      0x428 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x30 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-impure.o)
+ .text          0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-strncmp.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-strncmp.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-strncmp.o)
+ .text.strncmp  0x00000000      0x124 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-strncmp.o)
+ .debug_frame   0x00000000       0x48 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-strncmp.o)
+ .ARM.attributes
+                0x00000000       0x30 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-strncmp.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./driver/fs/diskio.o
+LOAD ./driver/fs/ff.o
+LOAD ./driver/key.o
+LOAD ./driver/led.o
+LOAD ./bsp/uart/printf.o
+LOAD ./bsp/uart/uart.o
+LOAD ./bsp/sdio/sdio.o
+LOAD ./bsp/newlib/libc.o
+LOAD ./bsp/newlib/syscalls.o
+LOAD ./bsp/interrupt/interrupt.o
+LOAD ./bsp/interrupt/interrupt_asm.o
+LOAD ./bsp/gpio/gpio.o
+LOAD ./bsp/dma/dma.o
+LOAD ./bsp/clock/clock.o
+LOAD ./main.o
+LOAD ./start.o
+START GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1\libgcc.a
+LOAD C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a
+LOAD C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libc.a
+END GROUP
+                0x30000000                . = 0x30000000
+
+.text           0x30000000      0x318
+ ./start.o(.text)
+ .text          0x30000000       0xa0 ./start.o
+                0x30000000                _start
+                0x30000094                _vector_end
+ *(.text)
+ .text          0x300000a0       0x18 ./bsp/interrupt/interrupt_asm.o
+                0x300000a0                s3c2440_interrupt_disable
+                0x300000b0                s3c2440_interrupt_enable
+ .text          0x300000b8      0x114 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1\libgcc.a(_udivsi3.o)
+                0x300000b8                __aeabi_uidiv
+                0x300000b8                __udivsi3
+                0x300001ac                __aeabi_uidivmod
+ .text          0x300001cc      0x148 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1\libgcc.a(_divsi3.o)
+                0x300001cc                __divsi3
+                0x300001cc                __aeabi_idiv
+                0x300002f4                __aeabi_idivmod
+ .text          0x30000314        0x4 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1\libgcc.a(_dvmd_tls.o)
+                0x30000314                __aeabi_idiv0
+                0x30000314                __aeabi_ldiv0
+
+.glue_7         0x30000318        0x0
+ .glue_7        0x30000318        0x0 linker stubs
+
+.glue_7t        0x30000318        0x0
+ .glue_7t       0x30000318        0x0 linker stubs
+
+.vfp11_veneer   0x30000318        0x0
+ .vfp11_veneer  0x30000318        0x0 linker stubs
+
+.v4_bx          0x30000318        0x0
+ .v4_bx         0x30000318        0x0 linker stubs
+
+.text.disk_initialize
+                0x30000318       0x2c
+ .text.disk_initialize
+                0x30000318       0x2c ./driver/fs/diskio.o
+                0x30000318                disk_initialize
+
+.text.disk_status
+                0x30000344       0x28
+ .text.disk_status
+                0x30000344       0x28 ./driver/fs/diskio.o
+                0x30000344                disk_status
+
+.text.disk_read
+                0x3000036c       0x48
+ .text.disk_read
+                0x3000036c       0x48 ./driver/fs/diskio.o
+                0x3000036c                disk_read
+
+.text.disk_write
+                0x300003b4       0x48
+ .text.disk_write
+                0x300003b4       0x48 ./driver/fs/diskio.o
+                0x300003b4                disk_write
+
+.text.disk_ioctl
+                0x300003fc       0xa0
+ .text.disk_ioctl
+                0x300003fc       0xa0 ./driver/fs/diskio.o
+                0x300003fc                disk_ioctl
+
+.text.get_fattime
+                0x3000049c       0x1c
+ .text.get_fattime
+                0x3000049c       0x1c ./driver/fs/diskio.o
+                0x3000049c                get_fattime
+
+.iplt           0x300004b8        0x0
+ .iplt          0x300004b8        0x0 ./driver/fs/diskio.o
+
+.text.mem_cpy   0x300004b8       0x70
+ .text.mem_cpy  0x300004b8       0x70 ./driver/fs/ff.o
+
+.text.mem_set   0x30000528       0x60
+ .text.mem_set  0x30000528       0x60 ./driver/fs/ff.o
+
+.text.mem_cmp   0x30000588       0x94
+ .text.mem_cmp  0x30000588       0x94 ./driver/fs/ff.o
+
+.text.chk_chr   0x3000061c       0x64
+ .text.chk_chr  0x3000061c       0x64 ./driver/fs/ff.o
+
+.text.sync_window
+                0x30000680       0xf4
+ .text.sync_window
+                0x30000680       0xf4 ./driver/fs/ff.o
+
+.text.move_window
+                0x30000774       0x94
+ .text.move_window
+                0x30000774       0x94 ./driver/fs/ff.o
+
+.text.sync_fs   0x30000808      0x234
+ .text.sync_fs  0x30000808      0x234 ./driver/fs/ff.o
+
+.text.clust2sect
+                0x30000a3c       0x70
+ .text.clust2sect
+                0x30000a3c       0x70 ./driver/fs/ff.o
+                0x30000a3c                clust2sect
+
+.text.get_fat   0x30000aac      0x2ac
+ .text.get_fat  0x30000aac      0x2ac ./driver/fs/ff.o
+                0x30000aac                get_fat
+
+.text.put_fat   0x30000d58      0x3fc
+ .text.put_fat  0x30000d58      0x3fc ./driver/fs/ff.o
+                0x30000d58                put_fat
+
+.text.remove_chain
+                0x30001154      0x138
+ .text.remove_chain
+                0x30001154      0x138 ./driver/fs/ff.o
+
+.text.create_chain
+                0x3000128c      0x224
+ .text.create_chain
+                0x3000128c      0x224 ./driver/fs/ff.o
+
+.text.clmt_clust
+                0x300014b0       0xc8
+ .text.clmt_clust
+                0x300014b0       0xc8 ./driver/fs/ff.o
+
+.text.dir_sdi   0x30001578      0x1ec
+ .text.dir_sdi  0x30001578      0x1ec ./driver/fs/ff.o
+
+.text.dir_next  0x30001764      0x314
+ .text.dir_next
+                0x30001764      0x314 ./driver/fs/ff.o
+
+.text.dir_alloc
+                0x30001a78      0x10c
+ .text.dir_alloc
+                0x30001a78      0x10c ./driver/fs/ff.o
+
+.text.ld_clust  0x30001b84       0xcc
+ .text.ld_clust
+                0x30001b84       0xcc ./driver/fs/ff.o
+
+.text.st_clust  0x30001c50       0xa4
+ .text.st_clust
+                0x30001c50       0xa4 ./driver/fs/ff.o
+
+.text.dir_find  0x30001cf4      0x118
+ .text.dir_find
+                0x30001cf4      0x118 ./driver/fs/ff.o
+
+.text.dir_register
+                0x30001e0c       0xb8
+ .text.dir_register
+                0x30001e0c       0xb8 ./driver/fs/ff.o
+
+.text.create_name
+                0x30001ec4      0x370
+ .text.create_name
+                0x30001ec4      0x370 ./driver/fs/ff.o
+
+.text.follow_path
+                0x30002234      0x188
+ .text.follow_path
+                0x30002234      0x188 ./driver/fs/ff.o
+
+.text.get_ldnumber
+                0x300023bc      0x108
+ .text.get_ldnumber
+                0x300023bc      0x108 ./driver/fs/ff.o
+
+.text.check_fs  0x300024c4      0x188
+ .text.check_fs
+                0x300024c4      0x188 ./driver/fs/ff.o
+
+.text.find_volume
+                0x3000264c      0x9cc
+ .text.find_volume
+                0x3000264c      0x9cc ./driver/fs/ff.o
+
+.text.validate  0x30003018       0xac
+ .text.validate
+                0x30003018       0xac ./driver/fs/ff.o
+
+.text.f_mount   0x300030c4       0xf4
+ .text.f_mount  0x300030c4       0xf4 ./driver/fs/ff.o
+                0x300030c4                f_mount
+
+.text.f_open    0x300031b8      0x454
+ .text.f_open   0x300031b8      0x454 ./driver/fs/ff.o
+                0x300031b8                f_open
+
+.text.f_write   0x3000360c      0x574
+ .text.f_write  0x3000360c      0x574 ./driver/fs/ff.o
+                0x3000360c                f_write
+
+.text.f_sync    0x30003b80      0x278
+ .text.f_sync   0x30003b80      0x278 ./driver/fs/ff.o
+                0x30003b80                f_sync
+
+.text.f_close   0x30003df8       0x68
+ .text.f_close  0x30003df8       0x68 ./driver/fs/ff.o
+                0x30003df8                f_close
+
+.text.key_init  0x30003e60       0xfc
+ .text.key_init
+                0x30003e60       0xfc ./driver/key.o
+                0x30003e60                key_init
+
+.text.isr_eint8_23
+                0x30003f5c       0xa0
+ .text.isr_eint8_23
+                0x30003f5c       0xa0 ./driver/key.o
+                0x30003f5c                isr_eint8_23
+
+.text.led_init  0x30003ffc       0xac
+ .text.led_init
+                0x30003ffc       0xac ./driver/led.o
+                0x30003ffc                led_init
+
+.text.led_toggle
+                0x300040a8       0x68
+ .text.led_toggle
+                0x300040a8       0x68 ./driver/led.o
+                0x300040a8                led_toggle
+
+.text.rt_strlen
+                0x30004110       0x54
+ .text.rt_strlen
+                0x30004110       0x54 ./bsp/uart/printf.o
+                0x30004110                rt_strlen
+
+.text.skip_atoi
+                0x30004164       0x78
+ .text.skip_atoi
+                0x30004164       0x78 ./bsp/uart/printf.o
+                0x30004164                skip_atoi
+
+.text.divide    0x300041dc       0xb8
+ .text.divide   0x300041dc       0xb8 ./bsp/uart/printf.o
+                0x300041dc                divide
+
+.text.print_number
+                0x30004294      0x338
+ .text.print_number
+                0x30004294      0x338 ./bsp/uart/printf.o
+
+.text.__vsnprintf
+                0x300045cc      0x8c4
+ .text.__vsnprintf
+                0x300045cc      0x8c4 ./bsp/uart/printf.o
+                0x300045cc                __vsnprintf
+
+.text.ex_kprintf
+                0x30004e90       0x68
+ .text.ex_kprintf
+                0x30004e90       0x68 ./bsp/uart/printf.o
+                0x30004e90                ex_kprintf
+
+.text.s3c2440_uart_init
+                0x30004ef8      0x138
+ .text.s3c2440_uart_init
+                0x30004ef8      0x138 ./bsp/uart/uart.o
+                0x30004ef8                s3c2440_uart_init
+
+.text.s3c2440_uart_put_char
+                0x30005030       0x54
+ .text.s3c2440_uart_put_char
+                0x30005030       0x54 ./bsp/uart/uart.o
+                0x30005030                s3c2440_uart_put_char
+
+.text.s3c2440_uart_put_str
+                0x30005084       0x54
+ .text.s3c2440_uart_put_str
+                0x30005084       0x54 ./bsp/uart/uart.o
+                0x30005084                s3c2440_uart_put_str
+
+.text.isr_eint_uart0
+                0x300050d8       0x84
+ .text.isr_eint_uart0
+                0x300050d8       0x84 ./bsp/uart/uart.o
+                0x300050d8                isr_eint_uart0
+
+.text.__isr_uart0_rx
+                0x3000515c      0x100
+ .text.__isr_uart0_rx
+                0x3000515c      0x100 ./bsp/uart/uart.o
+                0x3000515c                __isr_uart0_rx
+
+.text.__isr_uart0_tx
+                0x3000525c       0x18
+ .text.__isr_uart0_tx
+                0x3000525c       0x18 ./bsp/uart/uart.o
+                0x3000525c                __isr_uart0_tx
+
+.text.__sd_delay
+                0x30005274       0x58
+ .text.__sd_delay
+                0x30005274       0x58 ./bsp/sdio/sdio.o
+
+.text.sd_cmd_end
+                0x300052cc      0x170
+ .text.sd_cmd_end
+                0x300052cc      0x170 ./bsp/sdio/sdio.o
+
+.text.sd_busy_end
+                0x3000543c       0xa4
+ .text.sd_busy_end
+                0x3000543c       0xa4 ./bsp/sdio/sdio.o
+
+.text.sd_data_end
+                0x300054e0       0xa4
+ .text.sd_data_end
+                0x300054e0       0xa4 ./bsp/sdio/sdio.o
+
+.text.sd_cmd55  0x30005584       0x7c
+ .text.sd_cmd55
+                0x30005584       0x7c ./bsp/sdio/sdio.o
+
+.text.sd_setbus
+                0x30005600       0x68
+ .text.sd_setbus
+                0x30005600       0x68 ./bsp/sdio/sdio.o
+
+.text.s3c2440_sd_init
+                0x30005668      0x21c
+ .text.s3c2440_sd_init
+                0x30005668      0x21c ./bsp/sdio/sdio.o
+                0x30005668                s3c2440_sd_init
+
+.text.sd_readblock
+                0x30005884      0x1a0
+ .text.sd_readblock
+                0x30005884      0x1a0 ./bsp/sdio/sdio.o
+                0x30005884                sd_readblock
+
+.text.__irq_sdio_send
+                0x30005a24       0xec
+ .text.__irq_sdio_send
+                0x30005a24       0xec ./bsp/sdio/sdio.o
+
+.text.sd_write_multiblock
+                0x30005b10      0x278
+ .text.sd_write_multiblock
+                0x30005b10      0x278 ./bsp/sdio/sdio.o
+
+.text.sd_writeblock
+                0x30005d88      0x140
+ .text.sd_writeblock
+                0x30005d88      0x140 ./bsp/sdio/sdio.o
+
+.text.sdcard_read
+                0x30005ec8       0x88
+ .text.sdcard_read
+                0x30005ec8       0x88 ./bsp/sdio/sdio.o
+                0x30005ec8                sdcard_read
+
+.text.sdcard_write
+                0x30005f50       0xac
+ .text.sdcard_write
+                0x30005f50       0xac ./bsp/sdio/sdio.o
+                0x30005f50                sdcard_write
+
+.text.__send_cmd
+                0x30005ffc      0x204
+ .text.__send_cmd
+                0x30005ffc      0x204 ./bsp/sdio/sdio.o
+
+.text.sdio_go_idle
+                0x30006200       0x38
+ .text.sdio_go_idle
+                0x30006200       0x38 ./bsp/sdio/sdio.o
+                0x30006200                sdio_go_idle
+
+.text.sdio_send_if_cond
+                0x30006238       0x64
+ .text.sdio_send_if_cond
+                0x30006238       0x64 ./bsp/sdio/sdio.o
+                0x30006238                sdio_send_if_cond
+
+.text.sdio_send_rca
+                0x3000629c       0x58
+ .text.sdio_send_rca
+                0x3000629c       0x58 ./bsp/sdio/sdio.o
+                0x3000629c                sdio_send_rca
+
+.text.sdio_app_op_cond
+                0x300062f4      0x104
+ .text.sdio_app_op_cond
+                0x300062f4      0x104 ./bsp/sdio/sdio.o
+                0x300062f4                sdio_app_op_cond
+
+.text.sdio_all_send_cid
+                0x300063f8       0x64
+ .text.sdio_all_send_cid
+                0x300063f8       0x64 ./bsp/sdio/sdio.o
+                0x300063f8                sdio_all_send_cid
+
+.text.__get_bits_str
+                0x3000645c       0xe8
+ .text.__get_bits_str
+                0x3000645c       0xe8 ./bsp/sdio/sdio.o
+
+.text.__sd_decode_cid
+                0x30006544      0x1c0
+ .text.__sd_decode_cid
+                0x30006544      0x1c0 ./bsp/sdio/sdio.o
+
+.text.__sd_decode_csd
+                0x30006704      0x1b0
+ .text.__sd_decode_csd
+                0x30006704      0x1b0 ./bsp/sdio/sdio.o
+
+.text.sdio_send_csd
+                0x300068b4       0x6c
+ .text.sdio_send_csd
+                0x300068b4       0x6c ./bsp/sdio/sdio.o
+                0x300068b4                sdio_send_csd
+
+.text.sdio_select_card
+                0x30006920       0x40
+ .text.sdio_select_card
+                0x30006920       0x40 ./bsp/sdio/sdio.o
+                0x30006920                sdio_select_card
+
+.text.sdio_sdcard_get
+                0x30006960       0x20
+ .text.sdio_sdcard_get
+                0x30006960       0x20 ./bsp/sdio/sdio.o
+                0x30006960                sdio_sdcard_get
+
+.text.s3c2440_inetrrupt_init
+                0x30006980      0x10c
+ .text.s3c2440_inetrrupt_init
+                0x30006980      0x10c ./bsp/interrupt/interrupt.o
+                0x30006980                s3c2440_inetrrupt_init
+
+.text.s3c2440_interrupt_mask
+                0x30006a8c       0x48
+ .text.s3c2440_interrupt_mask
+                0x30006a8c       0x48 ./bsp/interrupt/interrupt.o
+                0x30006a8c                s3c2440_interrupt_mask
+
+.text.s3c2440_interrupt_unmask
+                0x30006ad4       0x4c
+ .text.s3c2440_interrupt_unmask
+                0x30006ad4       0x4c ./bsp/interrupt/interrupt.o
+                0x30006ad4                s3c2440_interrupt_unmask
+
+.text.s3c2440_interrupt_unsubmask
+                0x30006b20       0x4c
+ .text.s3c2440_interrupt_unsubmask
+                0x30006b20       0x4c ./bsp/interrupt/interrupt.o
+                0x30006b20                s3c2440_interrupt_unsubmask
+
+.text.s3c2440_interrupt_install_irq
+                0x30006b6c       0x78
+ .text.s3c2440_interrupt_install_irq
+                0x30006b6c       0x78 ./bsp/interrupt/interrupt.o
+                0x30006b6c                s3c2440_interrupt_install_irq
+
+.text.eint_handle
+                0x30006be4       0xbc
+ .text.eint_handle
+                0x30006be4       0xbc ./bsp/interrupt/interrupt.o
+                0x30006be4                eint_handle
+
+.text.__raw_readl
+                0x30006ca0       0x28
+ .text.__raw_readl
+                0x30006ca0       0x28 ./bsp/gpio/gpio.o
+
+.text.__raw_writel
+                0x30006cc8       0x30
+ .text.__raw_writel
+                0x30006cc8       0x30 ./bsp/gpio/gpio.o
+
+.text.s3c2440_gpio_cfgpin
+                0x30006cf8      0x140
+ .text.s3c2440_gpio_cfgpin
+                0x30006cf8      0x140 ./bsp/gpio/gpio.o
+                0x30006cf8                s3c2440_gpio_cfgpin
+
+.text.s3c2440_gpio_pullup
+                0x30006e38       0xb4
+ .text.s3c2440_gpio_pullup
+                0x30006e38       0xb4 ./bsp/gpio/gpio.o
+                0x30006e38                s3c2440_gpio_pullup
+
+.text.s3c2440_gpio_setpin
+                0x30006eec       0xa4
+ .text.s3c2440_gpio_setpin
+                0x30006eec       0xa4 ./bsp/gpio/gpio.o
+                0x30006eec                s3c2440_gpio_setpin
+
+.text.s3c2440_gpio_getpin
+                0x30006f90       0x64
+ .text.s3c2440_gpio_getpin
+                0x30006f90       0x64 ./bsp/gpio/gpio.o
+                0x30006f90                s3c2440_gpio_getpin
+
+.text.s3c2440_gpio_cfgirq
+                0x30006ff4      0x100
+ .text.s3c2440_gpio_cfgirq
+                0x30006ff4      0x100 ./bsp/gpio/gpio.o
+                0x30006ff4                s3c2440_gpio_cfgirq
+
+.text.s3c2440_clock_set_mpll
+                0x300070f4       0x60
+ .text.s3c2440_clock_set_mpll
+                0x300070f4       0x60 ./bsp/clock/clock.o
+                0x300070f4                s3c2440_clock_set_mpll
+
+.text.s3c2440_clock_set_upll
+                0x30007154       0x60
+ .text.s3c2440_clock_set_upll
+                0x30007154       0x60 ./bsp/clock/clock.o
+                0x30007154                s3c2440_clock_set_upll
+
+.text.s3c2440_clock_set_divider
+                0x300071b4       0x50
+ .text.s3c2440_clock_set_divider
+                0x300071b4       0x50 ./bsp/clock/clock.o
+                0x300071b4                s3c2440_clock_set_divider
+
+.text.s3c2440_clock__init
+                0x30007204       0x5c
+ .text.s3c2440_clock__init
+                0x30007204       0x5c ./bsp/clock/clock.o
+                0x30007204                s3c2440_clock__init
+
+.text.main      0x30007260      0x144
+ .text.main     0x30007260      0x144 ./main.o
+                0x30007260                main
+
+.text.soft_mdelay
+                0x300073a4       0x6c
+ .text.soft_mdelay
+                0x300073a4       0x6c ./main.o
+                0x300073a4                soft_mdelay
+
+.text.memcpy    0x30007410       0xf0
+ .text.memcpy   0x30007410       0xf0 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-memcpy-stub.o)
+                0x30007410                memcpy
+
+.text.memset    0x30007500       0xf4
+ .text.memset   0x30007500       0xf4 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-memset.o)
+                0x30007500                memset
+
+.rodata         0x300075f4      0x103
+ *(.rodata)
+ .rodata        0x300075f4       0x44 ./driver/fs/ff.o
+ .rodata        0x30007638        0x7 ./bsp/uart/printf.o
+ *fill*         0x3000763f        0x1 
+ .rodata        0x30007640       0x25 ./bsp/uart/uart.o
+ *fill*         0x30007665        0x3 
+ .rodata        0x30007668       0x48 ./bsp/sdio/sdio.o
+ .rodata        0x300076b0       0x47 ./main.o
+
+.rodata.large_digits.4476
+                0x300076f8       0x11
+ .rodata.large_digits.4476
+                0x300076f8       0x11 ./bsp/uart/printf.o
+
+.rodata.small_digits.4475
+                0x3000770c       0x11
+ .rodata.small_digits.4475
+                0x3000770c       0x11 ./bsp/uart/printf.o
+
+.rodata.__g_tran_exp
+                0x30007720       0x20
+ .rodata.__g_tran_exp
+                0x30007720       0x20 ./bsp/sdio/sdio.o
+
+.rodata.__g_tran_mant
+                0x30007740       0x10
+ .rodata.__g_tran_mant
+                0x30007740       0x10 ./bsp/sdio/sdio.o
+
+.rel.dyn        0x30007750        0x0
+ .rel.iplt      0x30007750        0x0 ./driver/fs/diskio.o
+
+.data
+ *(.data)
+
+.igot.plt       0x30007750        0x0
+ .igot.plt      0x30007750        0x0 ./driver/fs/diskio.o
+
+.data.uart0_cfg
+                0x30007750        0x4
+ .data.uart0_cfg
+                0x30007750        0x4 ./bsp/uart/uart.o
+                0x30007750                uart0_cfg
+
+.data.uart0     0x30007754        0xc
+ .data.uart0    0x30007754        0xc ./bsp/uart/uart.o
+                0x30007754                uart0
+
+.bss            0x30007760   0x10030c
+ *(.bss)
+ *(COMMON)
+ COMMON         0x30007760      0x20c ./bsp/uart/uart.o
+                0x30007760                rx_buf
+ COMMON         0x3000796c      0x100 ./bsp/interrupt/interrupt.o
+                0x3000796c                __g_irq_desc_tab
+ COMMON         0x30007a6c   0x100000 ./main.o
+                0x30007a6c                test_buf
+OUTPUT(mini2440_rtos.elf elf32-littlearm)
+
+.bss.FatFs      0x30107a6c        0x4
+ .bss.FatFs     0x30107a6c        0x4 ./driver/fs/ff.o
+
+.bss.Fsid       0x30107a70        0x2
+ .bss.Fsid      0x30107a70        0x2 ./driver/fs/ff.o
+
+.bss.rt_log_buf.4553
+                0x30107a74      0x200
+ .bss.rt_log_buf.4553
+                0x30107a74      0x200 ./bsp/uart/printf.o
+
+.bss.__g_sdcard
+                0x30107c74       0x2c
+ .bss.__g_sdcard
+                0x30107c74       0x2c ./bsp/sdio/sdio.o
+
+.bss.g_tr_end   0x30107ca0        0x1
+ .bss.g_tr_end  0x30107ca0        0x1 ./bsp/sdio/sdio.o
+                0x30107ca0                g_tr_end
+
+.bss.g_tr_block
+                0x30107ca1        0x1
+ .bss.g_tr_block
+                0x30107ca1        0x1 ./bsp/sdio/sdio.o
+                0x30107ca1                g_tr_block
+
+.bss.g_tr_cnt   0x30107ca4        0x4
+ .bss.g_tr_cnt  0x30107ca4        0x4 ./bsp/sdio/sdio.o
+                0x30107ca4                g_tr_cnt
+
+.bss.gp_tr_buf  0x30107ca8        0x4
+ .bss.gp_tr_buf
+                0x30107ca8        0x4 ./bsp/sdio/sdio.o
+                0x30107ca8                gp_tr_buf
+
+.debug_info     0x00000000     0x427f
+ .debug_info    0x00000000      0x39a ./driver/fs/diskio.o
+ .debug_info    0x0000039a     0x1ad8 ./driver/fs/ff.o
+ .debug_info    0x00001e72      0x12c ./driver/key.o
+ .debug_info    0x00001f9e      0x162 ./driver/led.o
+ .debug_info    0x00002100      0x45a ./bsp/uart/printf.o
+ .debug_info    0x0000255a      0x434 ./bsp/uart/uart.o
+ .debug_info    0x0000298e      0xa8a ./bsp/sdio/sdio.o
+ .debug_info    0x00003418      0x25a ./bsp/interrupt/interrupt.o
+ .debug_info    0x00003672       0x6f ./bsp/interrupt/interrupt_asm.o
+ .debug_info    0x000036e1      0x3ea ./bsp/gpio/gpio.o
+ .debug_info    0x00003acb      0x171 ./bsp/clock/clock.o
+ .debug_info    0x00003c3c      0x5ea ./main.o
+ .debug_info    0x00004226       0x59 ./start.o
+
+.debug_abbrev   0x00000000      0xe55
+ .debug_abbrev  0x00000000      0x127 ./driver/fs/diskio.o
+ .debug_abbrev  0x00000127      0x1a2 ./driver/fs/ff.o
+ .debug_abbrev  0x000002c9       0xab ./driver/key.o
+ .debug_abbrev  0x00000374       0xb3 ./driver/led.o
+ .debug_abbrev  0x00000427      0x15a ./bsp/uart/printf.o
+ .debug_abbrev  0x00000581      0x1ad ./bsp/uart/uart.o
+ .debug_abbrev  0x0000072e      0x2a3 ./bsp/sdio/sdio.o
+ .debug_abbrev  0x000009d1      0x127 ./bsp/interrupt/interrupt.o
+ .debug_abbrev  0x00000af8       0x14 ./bsp/interrupt/interrupt_asm.o
+ .debug_abbrev  0x00000b0c      0x155 ./bsp/gpio/gpio.o
+ .debug_abbrev  0x00000c61       0x7d ./bsp/clock/clock.o
+ .debug_abbrev  0x00000cde      0x163 ./main.o
+ .debug_abbrev  0x00000e41       0x14 ./start.o
+
+.debug_aranges  0x00000000      0x538
+ .debug_aranges
+                0x00000000       0x48 ./driver/fs/diskio.o
+ .debug_aranges
+                0x00000048      0x198 ./driver/fs/ff.o
+ .debug_aranges
+                0x000001e0       0x28 ./driver/key.o
+ .debug_aranges
+                0x00000208       0x38 ./driver/led.o
+ .debug_aranges
+                0x00000240       0x48 ./bsp/uart/printf.o
+ .debug_aranges
+                0x00000288       0x58 ./bsp/uart/uart.o
+ .debug_aranges
+                0x000002e0       0xe8 ./bsp/sdio/sdio.o
+ .debug_aranges
+                0x000003c8       0x50 ./bsp/interrupt/interrupt.o
+ .debug_aranges
+                0x00000418       0x20 ./bsp/interrupt/interrupt_asm.o
+ .debug_aranges
+                0x00000438       0x78 ./bsp/gpio/gpio.o
+ .debug_aranges
+                0x000004b0       0x38 ./bsp/clock/clock.o
+ .debug_aranges
+                0x000004e8       0x30 ./main.o
+ .debug_aranges
+                0x00000518       0x20 ./start.o
+
+.debug_ranges   0x00000000      0x448
+ .debug_ranges  0x00000000       0x38 ./driver/fs/diskio.o
+ .debug_ranges  0x00000038      0x188 ./driver/fs/ff.o
+ .debug_ranges  0x000001c0       0x18 ./driver/key.o
+ .debug_ranges  0x000001d8       0x28 ./driver/led.o
+ .debug_ranges  0x00000200       0x38 ./bsp/uart/printf.o
+ .debug_ranges  0x00000238       0x48 ./bsp/uart/uart.o
+ .debug_ranges  0x00000280       0xd8 ./bsp/sdio/sdio.o
+ .debug_ranges  0x00000358       0x40 ./bsp/interrupt/interrupt.o
+ .debug_ranges  0x00000398       0x68 ./bsp/gpio/gpio.o
+ .debug_ranges  0x00000400       0x28 ./bsp/clock/clock.o
+ .debug_ranges  0x00000428       0x20 ./main.o
+
+.debug_macro    0x00000000     0x3866
+ .debug_macro   0x00000000      0x20b ./driver/fs/diskio.o
+ .debug_macro   0x0000020b      0x814 ./driver/fs/diskio.o
+ .debug_macro   0x00000a1f       0xd9 ./driver/fs/diskio.o
+ .debug_macro   0x00000af8       0x22 ./driver/fs/diskio.o
+ .debug_macro   0x00000b1a       0x87 ./driver/fs/diskio.o
+ .debug_macro   0x00000ba1       0x44 ./driver/fs/diskio.o
+ .debug_macro   0x00000be5       0xfd ./driver/fs/diskio.o
+ .debug_macro   0x00000ce2       0x5e ./driver/fs/diskio.o
+ .debug_macro   0x00000d40      0x1df ./driver/fs/diskio.o
+ .debug_macro   0x00000f1f       0xe7 ./driver/fs/diskio.o
+ .debug_macro   0x00001006       0x52 ./driver/fs/diskio.o
+ .debug_macro   0x00001058       0x35 ./driver/fs/diskio.o
+ .debug_macro   0x0000108d       0x9c ./driver/fs/diskio.o
+ .debug_macro   0x00001129      0x174 ./driver/fs/diskio.o
+ .debug_macro   0x0000129d       0x52 ./driver/fs/diskio.o
+ .debug_macro   0x000012ef       0x1f ./driver/fs/diskio.o
+ .debug_macro   0x0000130e       0x43 ./driver/fs/diskio.o
+ .debug_macro   0x00001351       0x20 ./driver/fs/diskio.o
+ .debug_macro   0x00001371      0x187 ./driver/fs/diskio.o
+ .debug_macro   0x000014f8      0x30d ./driver/fs/diskio.o
+ .debug_macro   0x00001805       0x10 ./driver/fs/diskio.o
+ .debug_macro   0x00001815       0x35 ./driver/fs/diskio.o
+ .debug_macro   0x0000184a       0x16 ./driver/fs/diskio.o
+ .debug_macro   0x00001860       0x10 ./driver/fs/diskio.o
+ .debug_macro   0x00001870       0x10 ./driver/fs/diskio.o
+ .debug_macro   0x00001880       0x10 ./driver/fs/diskio.o
+ .debug_macro   0x00001890       0x1c ./driver/fs/diskio.o
+ .debug_macro   0x000018ac       0x52 ./driver/fs/diskio.o
+ .debug_macro   0x000018fe       0x40 ./driver/fs/diskio.o
+ .debug_macro   0x0000193e       0x10 ./driver/fs/diskio.o
+ .debug_macro   0x0000194e       0x40 ./driver/fs/diskio.o
+ .debug_macro   0x0000198e       0xd7 ./driver/fs/diskio.o
+ .debug_macro   0x00001a65       0x35 ./driver/fs/diskio.o
+ .debug_macro   0x00001a9a       0x8e ./driver/fs/diskio.o
+ .debug_macro   0x00001b28       0x22 ./driver/fs/diskio.o
+ .debug_macro   0x00001b4a       0x10 ./driver/fs/diskio.o
+ .debug_macro   0x00001b5a       0xb8 ./driver/fs/diskio.o
+ .debug_macro   0x00001c12      0x2ef ./driver/fs/ff.o
+ .debug_macro   0x00001f01      0x1c7 ./driver/key.o
+ .debug_macro   0x000020c8       0xe2 ./driver/key.o
+ .debug_macro   0x000021aa      0x154 ./driver/key.o
+ .debug_macro   0x000022fe       0x4c ./driver/key.o
+ .debug_macro   0x0000234a       0x8d ./driver/key.o
+ .debug_macro   0x000023d7       0x4a ./driver/key.o
+ .debug_macro   0x00002421       0x9a ./driver/key.o
+ .debug_macro   0x000024bb       0x64 ./driver/key.o
+ .debug_macro   0x0000251f       0x28 ./driver/key.o
+ .debug_macro   0x00002547      0x148 ./driver/key.o
+ .debug_macro   0x0000268f       0xee ./driver/key.o
+ .debug_macro   0x0000277d      0x1ab ./driver/led.o
+ .debug_macro   0x00002928       0x1c ./driver/led.o
+ .debug_macro   0x00002944      0x1f5 ./bsp/uart/printf.o
+ .debug_macro   0x00002b39       0x58 ./bsp/uart/printf.o
+ .debug_macro   0x00002b91      0x277 ./bsp/uart/uart.o
+ .debug_macro   0x00002e08       0x94 ./bsp/uart/uart.o
+ .debug_macro   0x00002e9c      0x23c ./bsp/sdio/sdio.o
+ .debug_macro   0x000030d8      0x108 ./bsp/interrupt/interrupt.o
+ .debug_macro   0x000031e0      0x19c ./bsp/gpio/gpio.o
+ .debug_macro   0x0000337c      0x18d ./bsp/clock/clock.o
+ .debug_macro   0x00003509      0x24f ./main.o
+ .debug_macro   0x00003758       0x22 ./main.o
+ .debug_macro   0x0000377a       0x2e ./main.o
+ .debug_macro   0x000037a8       0xbe ./main.o
+
+.debug_line     0x00000000     0x4274
+ .debug_line    0x00000000      0x42e ./driver/fs/diskio.o
+ .debug_line    0x0000042e     0x1152 ./driver/fs/ff.o
+ .debug_line    0x00001580      0x42b ./driver/key.o
+ .debug_line    0x000019ab      0x3cf ./driver/led.o
+ .debug_line    0x00001d7a      0x5d6 ./bsp/uart/printf.o
+ .debug_line    0x00002350      0x525 ./bsp/uart/uart.o
+ .debug_line    0x00002875      0x802 ./bsp/sdio/sdio.o
+ .debug_line    0x00003077      0x35b ./bsp/interrupt/interrupt.o
+ .debug_line    0x000033d2       0x55 ./bsp/interrupt/interrupt_asm.o
+ .debug_line    0x00003427      0x49c ./bsp/gpio/gpio.o
+ .debug_line    0x000038c3      0x382 ./bsp/clock/clock.o
+ .debug_line    0x00003c45      0x5d3 ./main.o
+ .debug_line    0x00004218       0x5c ./start.o
+
+.debug_str      0x00000000     0xaae0
+ .debug_str     0x00000000     0x7176 ./driver/fs/diskio.o
+                               0x7394 (size before relaxing)
+ .debug_str     0x00007176      0xa70 ./driver/fs/ff.o
+                               0x4447 (size before relaxing)
+ .debug_str     0x00007be6     0x1a61 ./driver/key.o
+                               0x7473 (size before relaxing)
+ .debug_str     0x00009647       0x92 ./driver/led.o
+                               0x69d5 (size before relaxing)
+ .debug_str     0x000096d9      0x292 ./bsp/uart/printf.o
+                               0x7230 (size before relaxing)
+ .debug_str     0x0000996b      0x561 ./bsp/uart/uart.o
+                               0x85c5 (size before relaxing)
+ .debug_str     0x00009ecc      0x2c5 ./bsp/sdio/sdio.o
+                               0x899e (size before relaxing)
+ .debug_str     0x0000a191      0x14d ./bsp/interrupt/interrupt.o
+                               0x577b (size before relaxing)
+ .debug_str     0x0000a2de      0x106 ./bsp/gpio/gpio.o
+                               0x69e5 (size before relaxing)
+ .debug_str     0x0000a3e4       0x8c ./bsp/clock/clock.o
+                               0x6220 (size before relaxing)
+ .debug_str     0x0000a470      0x670 ./main.o
+                               0x9590 (size before relaxing)
+
+.comment        0x00000000       0x6e
+ .comment       0x00000000       0x6e ./driver/fs/diskio.o
+                                 0x6f (size before relaxing)
+ .comment       0x0000006e       0x6f ./driver/fs/ff.o
+ .comment       0x0000006e       0x6f ./driver/key.o
+ .comment       0x0000006e       0x6f ./driver/led.o
+ .comment       0x0000006e       0x6f ./bsp/uart/printf.o
+ .comment       0x0000006e       0x6f ./bsp/uart/uart.o
+ .comment       0x0000006e       0x6f ./bsp/sdio/sdio.o
+ .comment       0x0000006e       0x6f ./bsp/interrupt/interrupt.o
+ .comment       0x0000006e       0x6f ./bsp/gpio/gpio.o
+ .comment       0x0000006e       0x6f ./bsp/clock/clock.o
+ .comment       0x0000006e       0x6f ./main.o
+
+.ARM.attributes
+                0x00000000       0x2d
+ .ARM.attributes
+                0x00000000       0x2f ./driver/fs/diskio.o
+ .ARM.attributes
+                0x0000002f       0x2f ./driver/fs/ff.o
+ .ARM.attributes
+                0x0000005e       0x2f ./driver/key.o
+ .ARM.attributes
+                0x0000008d       0x2f ./driver/led.o
+ .ARM.attributes
+                0x000000bc       0x2f ./bsp/uart/printf.o
+ .ARM.attributes
+                0x000000eb       0x2f ./bsp/uart/uart.o
+ .ARM.attributes
+                0x0000011a       0x2f ./bsp/sdio/sdio.o
+ .ARM.attributes
+                0x00000149       0x2f ./bsp/interrupt/interrupt.o
+ .ARM.attributes
+                0x00000178       0x1f ./bsp/interrupt/interrupt_asm.o
+ .ARM.attributes
+                0x00000197       0x2f ./bsp/gpio/gpio.o
+ .ARM.attributes
+                0x000001c6       0x2f ./bsp/clock/clock.o
+ .ARM.attributes
+                0x000001f5       0x2f ./main.o
+ .ARM.attributes
+                0x00000224       0x1f ./start.o
+ .ARM.attributes
+                0x00000243       0x18 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x0000025b       0x18 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1\libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x00000273       0x18 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000028b       0x30 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x000002bb       0x30 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-memset.o)
+
+.debug_frame    0x00000000     0x1398
+ .debug_frame   0x00000000       0xe4 ./driver/fs/diskio.o
+ .debug_frame   0x000000e4      0x74c ./driver/fs/ff.o
+ .debug_frame   0x00000830       0x60 ./driver/key.o
+ .debug_frame   0x00000890       0xa4 ./driver/led.o
+ .debug_frame   0x00000934      0x104 ./bsp/uart/printf.o
+ .debug_frame   0x00000a38      0x130 ./bsp/uart/uart.o
+ .debug_frame   0x00000b68      0x3bc ./bsp/sdio/sdio.o
+ .debug_frame   0x00000f24      0x100 ./bsp/interrupt/interrupt.o
+ .debug_frame   0x00001024      0x1c0 ./bsp/gpio/gpio.o
+ .debug_frame   0x000011e4       0x94 ./bsp/clock/clock.o
+ .debug_frame   0x00001278       0x74 ./main.o
+ .debug_frame   0x000012ec       0x20 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1\libgcc.a(_udivsi3.o)
+ .debug_frame   0x0000130c       0x20 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1\libgcc.a(_divsi3.o)
+ .debug_frame   0x0000132c       0x3c C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00001368       0x30 C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\libg.a(lib_a-memset.o)
