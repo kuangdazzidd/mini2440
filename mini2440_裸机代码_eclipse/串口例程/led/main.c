@@ -14,14 +14,16 @@ int main()
 
     led_init();
 
-    uart_put_str("hello mini2440\n");
+    while(1) {
+        uart_put_str("hello mini2440\n");
 
-    for (i = 0; i <= LED4; i++) {
-        led_on(i);
-    }
+        for (i = 0; i <= LED4; i++) {
+            led_on(i);
+        }
 
-    for (i = 0; i <= LED4; i++) {
-        led_off(i);
+        for (i = 0; i <= LED4; i++) {
+            led_off(i);
+        }
     }
 
     return 0;
